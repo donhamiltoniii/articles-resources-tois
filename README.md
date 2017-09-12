@@ -33,6 +33,8 @@ A running list of articles, resources, and things of interest that I want to rem
 ### Programming
 
 #### General
+- [Codewars](https://www.codewars.com)
+- [CodeFights](https://codefights.com/)
 - [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
 - [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
