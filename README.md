@@ -25,6 +25,13 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Modern Modules](https://medium.com/@mikeal/modern-modules-d99b6867b8f1)
 - [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 
+##### Node.js
+- [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+
+##### Testing
+- [Learn Mocha](https://github.com/ideaq/learn-mocha)
+- [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
+- [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
 
 ## Reading, Using, or Testing
 
@@ -45,5 +52,6 @@ A running list of articles, resources, and things of interest that I want to rem
 - [CodeFights](https://codefights.com/)
 
 #### JavaScript
-- [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
+##### Node.js
+- [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
