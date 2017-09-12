@@ -7,14 +7,12 @@ A running list of articles, resources, and things of interest that I want to rem
 ### Programming
 
 #### General
-- [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
-
-#### Katas
-- [Code Kata](http://codekata.com/kata/codekata-intro/)
+- [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 
 #### CSS
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
 - [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
+- [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
 
 #### Java
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
@@ -33,6 +31,16 @@ A running list of articles, resources, and things of interest that I want to rem
 ## Read, Used, or Tested (Effective)
 
 ### Programming
+
+#### General
+- [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
+- [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
+- [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
+
+#### Katas, Tutorial, and Learning Tools
+- [Code Kata](http://codekata.com/kata/codekata-intro/)
+- [ES6 Katas](http://es6katas.org/)
+- [Groovy Koans](http://www.groovy-koans.org/)
 
 #### JavaScript
 - [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
