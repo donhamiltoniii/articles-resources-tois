@@ -24,10 +24,8 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Build a simple Telegram Bot with Node.js](https://thedevs.network/blog/build-a-simple-telegram-bot-with-node-js?imm_mid=0f5e69&cmp=em-web-na-na-newsltr_20170906)
 - [Modern Modules](https://medium.com/@mikeal/modern-modules-d99b6867b8f1)
 - [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
-
 ##### Node.js
 - [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
-
 ##### Testing
 - [Learn Mocha](https://github.com/ideaq/learn-mocha)
 - [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
