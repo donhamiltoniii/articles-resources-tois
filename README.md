@@ -4,6 +4,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Programming
 
+### General
+- [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
+
 ### Katas
 - [Code Kata](http://codekata.com/kata/codekata-intro/)
 
