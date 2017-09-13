@@ -8,6 +8,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 #### General
 - [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+- [Introducing BDD](https://dannorth.net/introducing-bdd/)
 
 #### CSS
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
