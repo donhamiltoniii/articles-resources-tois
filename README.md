@@ -53,3 +53,6 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
 ##### Node.js
     - [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
+##### Testing
+    - [Mocha Docs](https://mochajs.org/)
+    - [Chai Assertion Library](http://chaijs.com/api/)
