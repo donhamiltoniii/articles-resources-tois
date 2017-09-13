@@ -9,6 +9,7 @@ A running list of articles, resources, and things of interest that I want to rem
 #### General
 - [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 - [Introducing BDD](https://dannorth.net/introducing-bdd/)
+- [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 #### CSS
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
@@ -18,6 +19,7 @@ A running list of articles, resources, and things of interest that I want to rem
 #### Java
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
 - [Using the Spring @RequestMapping Annotation](https://dzone.com/articles/using-the-spring-requestmapping-annotation)
+- [JUnit 5, Spring 5, and NoSQL Java](https://dzone.com/articles/this-week-in-spring-september-12th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
