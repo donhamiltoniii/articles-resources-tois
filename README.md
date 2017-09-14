@@ -47,6 +47,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
 
+##### Testing
+- [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
+
 #### Katas, Tutorial, and Learning Tools
 - [Code Kata](http://codekata.com/kata/codekata-intro/)
 - [ES6 Katas](http://es6katas.org/)
