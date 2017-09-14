@@ -20,6 +20,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
 - [Using the Spring @RequestMapping Annotation](https://dzone.com/articles/using-the-spring-requestmapping-annotation)
 - [JUnit 5, Spring 5, and NoSQL Java](https://dzone.com/articles/this-week-in-spring-september-12th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
+- [Code Smells: If-statements](https://dzone.com/articles/code-smells-if-statements)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
