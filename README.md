@@ -40,6 +40,11 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Reading, Using, or Testing
 
+### Programming
+
+#### JavaScript
+- [The Simplest React Stack](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f?imm_mid=0f6266&cmp=em-web-na-na-newsltr_20170913)
+
 ## Read, Used, or Tested (Effective)
 
 ### Programming
