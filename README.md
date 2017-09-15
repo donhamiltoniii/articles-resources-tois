@@ -4,6 +4,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## To Read, Use, or Test
 
+### Health and Nutrition
+- [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
+
 ### Programming
 
 #### General
