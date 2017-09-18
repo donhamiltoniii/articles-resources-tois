@@ -58,6 +58,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Read, Used, or Tested (Effective)
 
+### Reading and Retention
+- [How to Retain More from The Books You Read in Five Simple Steps](https://medium.com/darius-foroux/how-to-retain-more-from-the-books-you-read-in-5-simple-steps-700d90653a41)
+
 ### Programming
 
 #### General
