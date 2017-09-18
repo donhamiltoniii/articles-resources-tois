@@ -42,6 +42,11 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 - [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
 
+##### Libraries
+
+###### React
+- [Five React Practice Projects](https://daveceddia.com/react-practice-projects/?utm_campaign=0914practice)
+
 ## Reading, Using, or Testing
 
 ### Programming
