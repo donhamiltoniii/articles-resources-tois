@@ -79,6 +79,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [CodeFights](https://codefights.com/)
 
 #### CSS
+- [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
