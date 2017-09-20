@@ -27,6 +27,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Four Techniques for Writing Better Java](https://dzone.com/articles/4-more-techniques-for-writing-better-java)
 - [Getting to Know java.nio.file.Path](https://dzone.com/articles/getting-to-know-javaniofilepath-part-1)
 - [Understanding, Accepting, and Leveraging Optional in Java](https://dzone.com/articles/understanding-accepting-and-leveraging-optional-in)
+- [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
