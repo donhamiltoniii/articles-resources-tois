@@ -82,6 +82,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Codewars](https://www.codewars.com)
 - [CodeFights](https://codefights.com/)
 
+#### Java
+- [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
+
 #### CSS
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
