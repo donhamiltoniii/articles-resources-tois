@@ -53,6 +53,9 @@ A running list of articles, resources, and things of interest that I want to rem
 ###### Angular
 - [Deploy Angular Universal with Firebase](https://hackernoon.com/deploy-angular-universal-w-firebase-ad70ea2413a1?imm_mid=0f65c2&cmp=em-web-na-na-newsltr_20170920)
 
+#### Raspberry Pi
+- [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
+
 ## Reading, Using, or Testing
 
 ### Programming
