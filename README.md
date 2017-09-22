@@ -28,6 +28,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Getting to Know java.nio.file.Path](https://dzone.com/articles/getting-to-know-javaniofilepath-part-1)
 - [Understanding, Accepting, and Leveraging Optional in Java](https://dzone.com/articles/understanding-accepting-and-leveraging-optional-in)
 - [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)
+- [Creating a REST Web Service with Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
