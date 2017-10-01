@@ -14,6 +14,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Introducing BDD](https://dannorth.net/introducing-bdd/)
 - [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
+##### Testing
+- [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
+
 #### CSS
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
 - [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
@@ -29,6 +32,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Understanding, Accepting, and Leveraging Optional in Java](https://dzone.com/articles/understanding-accepting-and-leveraging-optional-in)
 - [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)
 - [Creating a REST Web Service with Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)
+- [Java Persistence API Introduction (Part 1)](https://dzone.com/articles/java-persistence-api-introduction-part-1)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
@@ -37,6 +41,10 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Modern Modules](https://medium.com/@mikeal/modern-modules-d99b6867b8f1)
 - [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [***Coding Tip: Try to Code Without If-statements***](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)
+- [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+
+##### ES6
+- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ##### Node.js
 - [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
@@ -92,12 +100,18 @@ A running list of articles, resources, and things of interest that I want to rem
 #### CSS
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
+- [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
 
 #### JavaScript
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
+- [Choosing the Right JavaScriptFramework for the job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
+- [I am a Java Developer Looking to Learn Node.js, New JavaScript Libraries and Frameworks](https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them)
+
+##### ES6
+- [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 
 ##### Node.js
 - [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
