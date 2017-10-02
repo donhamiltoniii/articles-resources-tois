@@ -112,6 +112,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ##### ES6
 - [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
+- [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
 
 ##### Node.js
 - [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
