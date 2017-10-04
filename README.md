@@ -97,6 +97,9 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
 
+#### GraphQL
+- [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
+
 #### Katas, Tutorial, and Learning Tools
 - [Code Kata](http://codekata.com/kata/codekata-intro/)
 - [ES6 Katas](http://es6katas.org/)
