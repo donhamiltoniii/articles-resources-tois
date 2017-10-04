@@ -13,6 +13,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 - [Introducing BDD](https://dannorth.net/introducing-bdd/)
 - [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
@@ -21,6 +22,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
 - [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
 - [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
+- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)
 
 #### Java
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
@@ -33,6 +35,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)
 - [Creating a REST Web Service with Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)
 - [Java Persistence API Introduction (Part 1)](https://dzone.com/articles/java-persistence-api-introduction-part-1)
+- [A Reactor Core Tutorial](https://dzone.com/articles/reactor-core-tutorial)
+- [Sneakily Throwing Exceptions in Lambda Expressions](https://dzone.com/articles/sneakily-throwing-exceptions-in-lambda-expressions)
+- [Build a Secure Notes App With Kotlin, TypeScript, and Okta](https://dzone.com/articles/build-a-secure-notes-application-with-kotlin-types)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
@@ -42,12 +47,15 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [***Coding Tip: Try to Code Without If-statements***](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)
 - [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+-[The Wonderful World of Webpack](http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/)
+- [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 
 ##### Node.js
 - [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
+- [Announcing Yarn 1.0](https://code.facebook.com/posts/274518539716230)
 
 ##### Testing
 - [Learn Mocha](https://github.com/ideaq/learn-mocha)
@@ -55,6 +63,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
 
 ##### Libraries
+-[Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 
 ###### React
 - [Five React Practice Projects](https://daveceddia.com/react-practice-projects/?utm_campaign=0914practice)
