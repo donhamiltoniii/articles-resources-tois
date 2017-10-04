@@ -6,6 +6,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ### Health and Nutrition
 - [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
+- [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)
 
 ### Programming
 
