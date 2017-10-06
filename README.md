@@ -15,6 +15,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Introducing BDD](https://dannorth.net/introducing-bdd/)
 - [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)
+- [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
@@ -93,6 +94,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
 - [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
 
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
