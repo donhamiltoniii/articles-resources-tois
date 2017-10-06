@@ -4,6 +4,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## To Read, Use, or Test
 
+### Productivity
+- [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)
+
 ### Health and Nutrition
 - [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
 - [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)
@@ -64,7 +67,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 - [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
 
-##### Libraries
+##### Libraries/Frameworks
 -[Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 
 ###### React
@@ -135,3 +138,8 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Testing
 - [Mocha Docs](https://mochajs.org/)
 - [Chai Assertion Library](http://chaijs.com/api/)
+
+##### Libraries/Frameworks
+
+###### Vue.js
+- [Style Guide](https://vuejs.org/v2/style-guide/)
