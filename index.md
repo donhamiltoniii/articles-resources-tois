@@ -54,6 +54,8 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 -[The Wonderful World of Webpack](http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/)
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
+- [**Setting up Webpack, Babel, and React from scratch, revisited**](https://stanko.github.io/webpack-babel-react-revisited/?utm_source=reactnl&utm_medium=email)
+- [Challenge: Programming without variables in JavaScript](https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
@@ -101,6 +103,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
+- [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
 
 #### GraphQL
 - [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
@@ -112,6 +115,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Codewars](https://www.codewars.com)
 - [CodeFights](https://codefights.com/)
 
+#### Ruby
+- [Learn Ruby](http://rubykoans.com/)
+
 #### Java
 - [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
 
@@ -119,6 +125,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
+- [Grid by Example](https://gridbyexample.com/)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
@@ -127,6 +134,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
 - [Choosing the Right JavaScriptFramework for the job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
 - [I am a Java Developer Looking to Learn Node.js, New JavaScript Libraries and Frameworks](https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them)
+- [JavaScript30](https://javascript30.com/)
 
 ##### ES6
 - [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
@@ -140,6 +148,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Chai Assertion Library](http://chaijs.com/api/)
 
 ##### Libraries/Frameworks
+
+###### jQuery
+- [Optimize your jQuery selectors for best performance](http://www.learningjquery.com/2017/10/optimize-your-jquery-selectors-for-best-performance-2)
 
 ###### Vue.js
 - [Style Guide](https://vuejs.org/v2/style-guide/)
