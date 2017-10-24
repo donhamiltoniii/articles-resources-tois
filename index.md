@@ -19,6 +19,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 - [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)
 - [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
+- [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
@@ -56,6 +57,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)
 - [**Setting up Webpack, Babel, and React from scratch, revisited**](https://stanko.github.io/webpack-babel-react-revisited/?utm_source=reactnl&utm_medium=email)
 - [Challenge: Programming without variables in JavaScript](https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e)
+- [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
@@ -100,6 +102,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
+- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
@@ -126,6 +129,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
 - [Grid by Example](https://gridbyexample.com/)
+- [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
@@ -139,6 +143,7 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### ES6
 - [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 - [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
+- [ES6 for Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 
 ##### Node.js
 - [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
