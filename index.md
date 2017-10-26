@@ -6,6 +6,8 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ### Productivity
 - [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)
+- [9 ways to accelerate your learning and stay on the bleeding edge](https://hackernoon.com/9-ways-to-accelerate-your-learning-and-stay-on-the-bleeding-edge-532ac3381846)
+- [How to Stick With Good Habits Every Day by Using the "Paper Clip Strategy"](https://jamesclear.com/paper-clips)
 
 ### Health and Nutrition
 - [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
@@ -20,6 +22,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)
 - [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 - [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+- [25 Programming Books for the Aspiring Developer](http://blog.teamtreehouse.com/25-programming-books-for-the-aspiring-developer)
+- [Top 10 Student Favorite Tech Podcasts](http://blog.teamtreehouse.com/top-10-student-favorite-podcasts)
+- [My Honest Opinion About Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
@@ -58,6 +63,8 @@ A running list of articles, resources, and things of interest that I want to rem
 - [**Setting up Webpack, Babel, and React from scratch, revisited**](https://stanko.github.io/webpack-babel-react-revisited/?utm_source=reactnl&utm_medium=email)
 - [Challenge: Programming without variables in JavaScript](https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e)
 - [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)
+- [Object Oriented Programming in Vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
+- [Looking at Tree-Shaking in JavaScript with Rollup](https://justintimecoder.com/treeshaking-in-javascript-with-rollup/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=85)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
