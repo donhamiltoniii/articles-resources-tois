@@ -34,6 +34,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
 - [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
 - [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)
+- [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)
 
 #### Java
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
