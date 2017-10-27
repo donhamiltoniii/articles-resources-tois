@@ -125,6 +125,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Codewars](https://www.codewars.com)
 - [CodeFights](https://codefights.com/)
 
+#### HTML
+- [HEAD](https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email#recommended-minimum)
+
 #### Ruby
 - [Learn Ruby](http://rubykoans.com/)
 
