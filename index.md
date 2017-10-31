@@ -15,6 +15,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ### Programming
 
+#### Hosting
+- [**Digital Ocean**](https://www.digitalocean.com/)
+
 #### General
 - [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 - [Introducing BDD](https://dannorth.net/introducing-bdd/)
@@ -28,6 +31,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
+
+#### Command Line
+- [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)
 
 #### CSS
 - [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
@@ -50,6 +56,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [A Reactor Core Tutorial](https://dzone.com/articles/reactor-core-tutorial)
 - [Sneakily Throwing Exceptions in Lambda Expressions](https://dzone.com/articles/sneakily-throwing-exceptions-in-lambda-expressions)
 - [Build a Secure Notes App With Kotlin, TypeScript, and Okta](https://dzone.com/articles/build-a-secure-notes-application-with-kotlin-types)
+- [Session Management in Java Web Apps](https://dzone.com/articles/session-management-in-java-web-apps?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
@@ -66,6 +73,8 @@ A running list of articles, resources, and things of interest that I want to rem
 - [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)
 - [Object Oriented Programming in Vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Looking at Tree-Shaking in JavaScript with Rollup](https://justintimecoder.com/treeshaking-in-javascript-with-rollup/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=85)
+- [Migrating towards Yarn and Webpack](http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/)
+- [12 Common Javascript Questions Answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
@@ -138,12 +147,18 @@ A running list of articles, resources, and things of interest that I want to rem
 #### CSS
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
+- [BADA55.io](http://bada55.io/)
+
+##### Grid
 - [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
 - [Grid by Example](https://gridbyexample.com/)
 - [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 #### JavaScript
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
