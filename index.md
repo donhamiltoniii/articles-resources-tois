@@ -148,6 +148,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [BADA55.io](http://bada55.io/)
+- [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)
 
 ##### Grid
 - [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
@@ -171,14 +172,14 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
 - [ES6 for Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 
-##### Node.js
-- [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
-
 ##### Testing
 - [Mocha Docs](https://mochajs.org/)
 - [Chai Assertion Library](http://chaijs.com/api/)
 
 ##### Libraries/Frameworks
+
+##### Node.js
+- [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
 
 ###### jQuery
 - [Optimize your jQuery selectors for best performance](http://www.learningjquery.com/2017/10/optimize-your-jquery-selectors-for-best-performance-2)
