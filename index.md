@@ -4,19 +4,27 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## To Read, Use, or Test
 
+### Health and Nutrition
+- [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
+- [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)
+
 ### Productivity
 - [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)
 - [9 ways to accelerate your learning and stay on the bleeding edge](https://hackernoon.com/9-ways-to-accelerate-your-learning-and-stay-on-the-bleeding-edge-532ac3381846)
 - [How to Stick With Good Habits Every Day by Using the "Paper Clip Strategy"](https://jamesclear.com/paper-clips)
 
-### Health and Nutrition
-- [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
-- [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)
-
 ### Programming
 
-#### Hosting
-- [**Digital Ocean**](https://www.digitalocean.com/)
+#### Command Line
+- [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)
+
+#### CSS
+- [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
+- [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
+- [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
+- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)
+- [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)
+- [How to Write a JavaScript-Free Todo App Using Just HTML and CSS](http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html?imm_mid=0f79f3&cmp=em-web-na-na-newsltr_20171101)
 
 #### General
 - [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
@@ -32,16 +40,11 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
-#### Command Line
-- [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)
+#### GLSL
+- [Shadertoy](https://www.shadertoy.com/view/Md23DV)
 
-#### CSS
-- [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
-- [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
-- [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
-- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)
-- [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)
-- [How to Write a JavaScript-Free Todo App Using Just HTML and CSS](http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html?imm_mid=0f79f3&cmp=em-web-na-na-newsltr_20171101)
+#### Hosting
+- [**Digital Ocean**](https://www.digitalocean.com/)
 
 #### Java
 - [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
@@ -101,52 +104,13 @@ A running list of articles, resources, and things of interest that I want to rem
 #### Raspberry Pi
 - [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
 
-## Reading, Using, or Testing
-
-### Programming
-
-#### JavaScript
-- [The Simplest React Stack](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f?imm_mid=0f6266&cmp=em-web-na-na-newsltr_20170913)
+#### WebGL
+- [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+- [WebGL Fundamentals](https://webglfundamentals.org/)
 
 ## Read, Used, or Tested (Effective)
 
-### Paracord
-- [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)
-
-### Reading and Retention
-- [How to Retain More from The Books You Read in Five Simple Steps](https://medium.com/darius-foroux/how-to-retain-more-from-the-books-you-read-in-5-simple-steps-700d90653a41)
-
 ### Programming
-
-#### General
-- [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
-- [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
-- [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
-- [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
-- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
-
-##### Testing
-- [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
-- [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
-
-#### GraphQL
-- [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
-
-#### Katas, Tutorial, and Learning Tools
-- [Code Kata](http://codekata.com/kata/codekata-intro/)
-- [ES6 Katas](http://es6katas.org/)
-- [Groovy Koans](http://www.groovy-koans.org/)
-- [Codewars](https://www.codewars.com)
-- [CodeFights](https://codefights.com/)
-
-#### HTML
-- [HEAD](https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email#recommended-minimum)
-
-#### Ruby
-- [Learn Ruby](http://rubykoans.com/)
-
-#### Java
-- [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
 
 #### CSS
 - [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
@@ -165,11 +129,33 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+#### General
+- [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
+- [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
+- [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
+- [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
+- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
+
+##### Testing
+- [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
+- [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
+
+#### GraphQL
+- [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
+
+#### HTML
+- [HEAD](https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email#recommended-minimum)
+
+#### Java
+- [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
+- [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
 #### JavaScript
 - [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
 - [Choosing the Right JavaScriptFramework for the job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
 - [I am a Java Developer Looking to Learn Node.js, New JavaScript Libraries and Frameworks](https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them)
 - [JavaScript30](https://javascript30.com/)
+- [The Simplest React Stack](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f?imm_mid=0f6266&cmp=em-web-na-na-newsltr_20170913)
 
 ##### ES6
 - [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
@@ -190,3 +176,24 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ###### Vue.js
 - [Style Guide](https://vuejs.org/v2/style-guide/)
+
+#### Katas, Tutorial, and Learning Tools
+- [Code Kata](http://codekata.com/kata/codekata-intro/)
+- [ES6 Katas](http://es6katas.org/)
+- [Groovy Koans](http://www.groovy-koans.org/)
+- [Codewars](https://www.codewars.com)
+- [CodeFights](https://codefights.com/)
+
+#### Ruby
+- [Learn Ruby](http://rubykoans.com/)
+
+### Reading and Retention
+- [How to Retain More from The Books You Read in Five Simple Steps](https://medium.com/darius-foroux/how-to-retain-more-from-the-books-you-read-in-5-simple-steps-700d90653a41)
+
+### Survival
+
+#### Knives
+- [M40's 10¢ Survival Knife](http://www.m4040.com/Survival/10_Cent_Survival_Knife/10_Cent_Survival_Knife.htm)
+
+#### Paracord
+- [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)
