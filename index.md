@@ -123,6 +123,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Grid by Example](https://gridbyexample.com/)
 - [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)
 
 ##### Flexbox
 - [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)
