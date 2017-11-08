@@ -36,6 +36,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [25 Programming Books for the Aspiring Developer](http://blog.teamtreehouse.com/25-programming-books-for-the-aspiring-developer)
 - [Top 10 Student Favorite Tech Podcasts](http://blog.teamtreehouse.com/top-10-student-favorite-podcasts)
 - [My Honest Opinion About Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)
+- [Understanding SOLID Principles: Dependency Inversion](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)
 
 ##### Testing
 - [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
@@ -61,6 +62,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Sneakily Throwing Exceptions in Lambda Expressions](https://dzone.com/articles/sneakily-throwing-exceptions-in-lambda-expressions)
 - [Build a Secure Notes App With Kotlin, TypeScript, and Okta](https://dzone.com/articles/build-a-secure-notes-application-with-kotlin-types)
 - [Session Management in Java Web Apps](https://dzone.com/articles/session-management-in-java-web-apps?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
+- [How Spring MVC Really Works](https://dzone.com/articles/how-spring-mvc-really-works)
 
 #### JavaScript
 - [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
