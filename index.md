@@ -81,6 +81,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Looking at Tree-Shaking in JavaScript with Rollup](https://justintimecoder.com/treeshaking-in-javascript-with-rollup/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=85)
 - [Migrating towards Yarn and Webpack](http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/)
 - [12 Common Javascript Questions Answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)
+- [How to Build a Simple Blog Using React and GraphQL](https://cosmicjs.com/articles/how-to-build-a-simple-blog-using-react-and-graphql-j8ouwjvh)
 
 ##### ES6
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
