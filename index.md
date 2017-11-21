@@ -133,6 +133,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
+
 #### General
 - [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
 - [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
@@ -140,9 +141,13 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
 - [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 
+##### Git/Github
+- [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
+
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
 - [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
+
 
 #### GraphQL
 - [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
