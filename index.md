@@ -143,7 +143,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ##### Git/Github
 - [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
-
+- [Git Style Guide](https://github.com/agis/git-style-guide)
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
 - [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
