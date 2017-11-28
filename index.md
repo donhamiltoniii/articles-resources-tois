@@ -196,6 +196,9 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Codewars](https://www.codewars.com)
 - [CodeFights](https://codefights.com/)
 
+#### Linux
+- [Damn Small Linux](http://damnsmalllinux.org/applications.html)
+
 #### Ruby
 - [Learn Ruby](http://rubykoans.com/)
 
