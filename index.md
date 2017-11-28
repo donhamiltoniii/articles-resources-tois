@@ -198,6 +198,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 #### Linux
 - [Damn Small Linux](http://damnsmalllinux.org/applications.html)
+- [Puppy Linux](http://puppylinux.com/)
 
 #### Ruby
 - [Learn Ruby](http://rubykoans.com/)
