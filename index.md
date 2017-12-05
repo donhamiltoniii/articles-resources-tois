@@ -167,6 +167,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [The Simplest React Stack](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f?imm_mid=0f6266&cmp=em-web-na-na-newsltr_20170913)
 - [Build a CMS-Powered Browser App in 2 Minutes](https://hackernoon.com/build-a-cms-powered-browser-app-in-2-minutes-7a0adbef36a9)
 - [Learn & Understand JavaScript's Map Function](https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783)
+- [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 
 ##### ES6
 - [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
