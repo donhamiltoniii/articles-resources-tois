@@ -106,6 +106,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 #### Raspberry Pi
 - [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
+- [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)
 
 #### WebGL
 - [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
