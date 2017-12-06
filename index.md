@@ -141,10 +141,12 @@ A running list of articles, resources, and things of interest that I want to rem
 - [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
 - [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
 - [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
+- [Work Smaller (Even If It Makes No Sense)](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a)
 
 ##### Git/Github
 - [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
 - [Git Style Guide](https://github.com/agis/git-style-guide)
+
 ##### Testing
 - [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
 - [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
