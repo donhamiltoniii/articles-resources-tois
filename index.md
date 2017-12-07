@@ -107,9 +107,10 @@ A running list of articles, resources, and things of interest that I want to rem
 ###### Angular
 - [Deploy Angular Universal with Firebase](https://hackernoon.com/deploy-angular-universal-w-firebase-ad70ea2413a1?imm_mid=0f65c2&cmp=em-web-na-na-newsltr_20170920)
 
-#### Raspberry Pi
+#### Raspberry Pi & Arduino
 - [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
 - [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)
+- [200+ Arduino Projects List For Electronics Students](https://www.electronicshub.org/arduino-project-ideas/)
 
 #### WebGL
 - [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
