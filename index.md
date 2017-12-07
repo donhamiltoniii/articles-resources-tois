@@ -44,6 +44,9 @@ A running list of articles, resources, and things of interest that I want to rem
 #### GLSL
 - [Shadertoy](https://www.shadertoy.com/view/Md23DV)
 
+#### Hardware
+- [Turn Your Old Router into a RangeBoosting Wi-Fi Repeater](https://lifehacker.com/5563196/turn-your-old-router-into-a-range-boosting-wi-fi-repeater/amp)
+
 #### Hosting
 - [**Digital Ocean**](https://www.digitalocean.com/)
 
