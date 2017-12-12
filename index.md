@@ -125,6 +125,7 @@ A running list of articles, resources, and things of interest that I want to rem
 - [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 - [BADA55.io](http://bada55.io/)
 - [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)
+- [Media Queries For Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ##### Grid
 - [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)
