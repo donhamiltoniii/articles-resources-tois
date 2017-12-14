@@ -78,6 +78,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Session Management in Java Web Apps](https://dzone.com/articles/session-management-in-java-web-apps?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
 * [How Spring MVC Really Works](https://dzone.com/articles/how-spring-mvc-really-works)
 * [Spring 5, Embedded Tomcat 8, and Gradle](https://dzone.com/articles/spring-5-embedded-tomcat-8-and-gradle)
+* [Codingbat](http://codingbat.com/java)
 
 #### JavaScript
 
