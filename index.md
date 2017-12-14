@@ -144,6 +144,10 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Read, Used, or Tested (Effective)
 
+### Health and Wellness
+
+* [Nine Delicious and Simple Keto Crockpot Recipes](https://thedailynutrition.com/keto-crockpot-recipes/)
+
 ### Programming
 
 #### CSS
@@ -211,6 +215,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Learn & Understand JavaScript's Map Function](https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783)
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * [JavaScript.info](http://javascript.info/getting-started)
+* [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
 
 ##### ES6
 
