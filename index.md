@@ -48,6 +48,10 @@ A running list of articles, resources, and things of interest that I want to rem
 
 * [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 
+#### Git/Github
+
+* [Understanding Git - Explain it Like I'm Five](https://hackernoon.com/understanding-git-fcffd87c15a3)
+
 #### GLSL
 
 * [Shadertoy](https://www.shadertoy.com/view/Md23DV)
