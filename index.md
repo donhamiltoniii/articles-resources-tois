@@ -152,6 +152,10 @@ A running list of articles, resources, and things of interest that I want to rem
 
 * [Nine Delicious and Simple Keto Crockpot Recipes](https://thedailynutrition.com/keto-crockpot-recipes/)
 
+#### Exercise
+
+* [Lose Belly Fat With Just Two Exercises](https://www.menshealth.com/fitness/lose-belly-fat-two-exercises?amp)
+
 ### Programming
 
 #### CSS
