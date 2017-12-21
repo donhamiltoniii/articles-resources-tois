@@ -235,6 +235,7 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Libraries/Frameworks
 
 * [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/)
+* [Top 10 React Libraries on Github](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
 
 ###### Node.js
 
