@@ -166,6 +166,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)
 * [Media Queries For Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 * [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/?utm_source=frontendfocus&utm_medium=email)
+* [ABEM: Useful Adaptation BEM](https://css-tricks.com/abem-useful-adaptation-bem/)
 
 ##### Grid
 
