@@ -227,6 +227,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * [JavaScript.info](http://javascript.info/getting-started)
 * [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
+* [Top Javascript Libraries & Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 
 ##### ES6
 
