@@ -209,6 +209,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 * [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)
 * [No.](https://medium.com/@_ericelliott/no-2aca272faac5)
+* [Test-Driven Code Review](https://hackernoon.com/test-driven-code-review-3f05f6cee400)
 
 #### GraphQL
 
