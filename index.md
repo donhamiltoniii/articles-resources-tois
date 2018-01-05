@@ -43,6 +43,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [My Honest Opinion About Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)
 * [Understanding SOLID Principles: Dependency Inversion](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)
 * [Aspect Oriented Programming (AOP) in real life scenario](https://dev.to/rafalpienkowski/aspect-oriented-programming-aop-in-real-life-scenario-3ha)
+* [Single-Responsibility Principle Done Right](https://dzone.com/articles/single-responsibility-principle-done-right)
 
 ##### Testing
 
