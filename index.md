@@ -87,6 +87,10 @@ A running list of articles, resources, and things of interest that I want to rem
 * [IoC vs. DI](https://dzone.com/articles/ioc-vs-di)
 * [About Dependency Injection](https://dzone.com/articles/about-dependency-injection)
 
+##### Spring
+
+* [Spring, Spring Boot, and Component Scan](https://dzone.com/articles/spring-spring-boot-and-component-scan)
+
 #### JavaScript
 
 * [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
