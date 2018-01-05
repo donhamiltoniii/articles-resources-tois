@@ -48,6 +48,7 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Testing
 
 * [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
+* [Learn CI: Automated Test and Publish in 10 Min](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)
 
 #### Git/Github
 
