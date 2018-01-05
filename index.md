@@ -83,6 +83,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [How Spring MVC Really Works](https://dzone.com/articles/how-spring-mvc-really-works)
 * [Spring 5, Embedded Tomcat 8, and Gradle](https://dzone.com/articles/spring-5-embedded-tomcat-8-and-gradle)
 * [Codingbat](http://codingbat.com/java)
+* [IoC vs. DI](https://dzone.com/articles/ioc-vs-di)
 
 #### JavaScript
 
