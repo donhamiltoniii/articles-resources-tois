@@ -238,11 +238,12 @@ A running list of articles, resources, and things of interest that I want to rem
 * [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
 * [Top Javascript Libraries & Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 
-##### ES6
+##### ES6+
 
 * [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 * [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
 * [ES6 for Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
+* [Six Tiny But Awesome ES7 and ES8 Features](https://davidwalsh.name/es7-es8-features)
 
 ##### Testing
 
