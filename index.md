@@ -252,6 +252,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 * [Mocha Docs](https://mochajs.org/)
 * [Chai Assertion Library](http://chaijs.com/api/)
+* [But really, what is JavaScript testing?]([this one](https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77?mkt_tok=eyJpIjoiWXpJNE5qUTJaV00wTlRrMSIsInQiOiIzdE1QOHptT0s4bUhjZ1dadlpjd0szOHJnYVFHWEVub1NBNzhOZ1pMTXhrcFRcL2ozbDI4OTRMc2xCK3hxOTBNNDhsYzQzM1JzXC9hK0hwVlVabDFlV3FjMGhmbDI4bGNlZkxQVWFBXC9oS2trYStZTWhCcVZ4ZE9Wa3B6XC9lN0xQMmUifQ%3D%3D))
 
 ##### Libraries/Frameworks
 
