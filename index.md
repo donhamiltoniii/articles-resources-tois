@@ -202,6 +202,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
 * [Work Smaller (Even If It Makes No Sense)](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a)
 * [I Thought I Understood Open Source. I Was Wrong](https://hackernoon.com/i-thought-i-understood-open-source-i-was-wrong-cf54999c097b)
+* [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)
 
 ##### Git/Github
 
