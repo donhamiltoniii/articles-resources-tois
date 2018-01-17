@@ -178,6 +178,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [ABEM: Useful Adaptation BEM](https://css-tricks.com/abem-useful-adaptation-bem/)
 * [Flexible Type Using Root](http://allthingssmitty.com/2016/12/05/flexible-type-using-root/)
 * [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?mkt_tok=eyJpIjoiWXpJNE5qUTJaV00wTlRrMSIsInQiOiIzdE1QOHptT0s4bUhjZ1dadlpjd0szOHJnYVFHWEVub1NBNzhOZ1pMTXhrcFRcL2ozbDI4OTRMc2xCK3hxOTBNNDhsYzQzM1JzXC9hK0hwVlVabDFlV3FjMGhmbDI4bGNlZkxQVWFBXC9oS2trYStZTWhCcVZ4ZE9Wa3B6XC9lN0xQMmUifQ%3D%3D)
+* [Stop Using CSS Selectors for Non-CSS](https://css-tricks.com/stop-using-css-selectors-non-css/)
 
 ##### Grid
 
