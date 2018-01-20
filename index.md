@@ -245,6 +245,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Top Javascript Libraries & Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator/amp?__twitter_impression=true)
 * [The Ultimate Guide to Javascript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
+* [Currying in JS](https://hackernoon.com/currying-in-js-d9ddc64f162e)
 
 ##### ES6+
 
