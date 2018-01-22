@@ -246,6 +246,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator/amp?__twitter_impression=true)
 * [The Ultimate Guide to Javascript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
 * [Currying in JS](https://hackernoon.com/currying-in-js-d9ddc64f162e)
+* [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
 
 ##### ES6+
 
