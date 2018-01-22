@@ -205,6 +205,7 @@ A running list of articles, resources, and things of interest that I want to rem
 * [Work Smaller (Even If It Makes No Sense)](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a)
 * [I Thought I Understood Open Source. I Was Wrong](https://hackernoon.com/i-thought-i-understood-open-source-i-was-wrong-cf54999c097b)
 * [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)
+* [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
 
 ##### Git/Github
 
