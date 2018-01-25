@@ -206,10 +206,10 @@ A running list of articles, resources, and things of interest that I want to rem
 * [I Thought I Understood Open Source. I Was Wrong](https://hackernoon.com/i-thought-i-understood-open-source-i-was-wrong-cf54999c097b)
 * [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)
 * [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
-* [_Every Programmer Should Know_](https://github.com/mtdvio/every-programmer-should-know)
-* [_P1xt Guides_](https://github.com/P1xt/p1xt-guides#get-job-ready-with-13-projects-2-courses-and-10-books)
-* [_Math As Code_](https://github.com/Jam3/math-as-code)
-* [_Open Source Society University_](https://github.com/ossu/computer-science)
+* [**Every Programmer Should Know**](https://github.com/mtdvio/every-programmer-should-know)
+* [**P1xt Guides**](https://github.com/P1xt/p1xt-guides#get-job-ready-with-13-projects-2-courses-and-10-books)
+* [**Math As Code**](https://github.com/Jam3/math-as-code)
+* [**Open Source Society University**](https://github.com/ossu/computer-science)
 
 ##### Git/Github
 
