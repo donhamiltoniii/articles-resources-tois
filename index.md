@@ -279,6 +279,10 @@ A running list of articles, resources, and things of interest that I want to rem
 
 * [Optimize your jQuery selectors for best performance](http://www.learningjquery.com/2017/10/optimize-your-jquery-selectors-for-best-performance-2)
 
+###### React
+
+* [React, Redux, and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
+
 ###### Vue.js
 
 * [Style Guide](https://vuejs.org/v2/style-guide/)
