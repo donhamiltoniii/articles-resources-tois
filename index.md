@@ -318,3 +318,7 @@ A running list of articles, resources, and things of interest that I want to rem
 #### Paracord
 
 * [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)
+
+### Teaching Materials
+
+* [Code Highlighting Tool (JS Library)](https://highlightjs.org/)
