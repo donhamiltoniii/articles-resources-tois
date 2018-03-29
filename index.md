@@ -213,6 +213,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [**Math As Code**](https://github.com/Jam3/math-as-code)
 *   [**Open Source Society University**](https://github.com/ossu/computer-science)
 *   [First Timers Only](http://www.firsttimersonly.com/)
+*   [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 
 ##### Agile/Scrum
 
@@ -282,6 +283,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 *   [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/)
 *   [Top 10 React Libraries on Github](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
+*   [Riotjs](http://riotjs.com/guide/)
 
 ###### Node.js
 
