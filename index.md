@@ -247,6 +247,10 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Spring Doc](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
 *   [Getters and Setters Considered Harmful](https://dzone.com/articles/getters-and-setters-considered-harmful)
 
+##### Spring
+
+*   [Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)
+
 #### JavaScript
 
 *   [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
