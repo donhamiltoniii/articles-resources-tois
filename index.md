@@ -245,6 +245,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
 *   [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 *   [Spring Doc](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
+*   [Getters and Setters Considered Harmful](https://dzone.com/articles/getters-and-setters-considered-harmful)
 
 #### JavaScript
 
