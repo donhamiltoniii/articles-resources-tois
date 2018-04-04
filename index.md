@@ -271,6 +271,10 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Scalable JavaScript Application Architecture](https://www.slideshare.net/nzakas/scalable-javascript-application-architecture/39-SandboxThe_sandbox_ensures_a_consistent)
 *   [MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
+##### Bundling
+
+*   [Why Would I Use Webpack](http://tinselcity.net/whys/packers)
+
 ##### ES6+
 
 *   [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
