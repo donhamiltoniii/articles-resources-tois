@@ -4,6 +4,18 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## To Read, Use, or Test
 
+## _TODO_
+
+*   [Discovery Testing](https://www.youtube.com/watch?list=PLIuJbrOVyGjl0keQ-QyiMEOCvmabJEf0t&v=aeX5OXO-w30)
+*   [But Really, What is a JavaScript Mock](https://blog.kentcdodds.com/but-really-what-is-a-javascript-mock-10d060966f7d)
+*   [But Really, What is a JavaScript Test](https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77)
+*   [Learning Node.js in 2018](https://medium.com/the-node-js-collection/survey-learning-node-js-in-2018-330ec850a2e9)
+*   [React Holiday](https://react.holiday/)
+*   [Redux Intro Using Vanilla JS](https://www.youtube.com/watch?v=wuabk5gqHVc)
+*   [Free React Bootcamp](https://www.youtube.com/watch?v=8GXXGJRDMdQ)
+*   [JS Patterns](http://www.jspatterns.com/)
+*   [Hyperapp](https://github.com/hyperapp/hyperapp/blob/master/README.md)
+
 ### Health and Nutrition
 
 *   [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
