@@ -15,6 +15,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Free React Bootcamp](https://www.youtube.com/watch?v=8GXXGJRDMdQ)
 *   [JS Patterns](http://www.jspatterns.com/)
 *   [Hyperapp](https://github.com/hyperapp/hyperapp/blob/master/README.md)
+*   [Introduction to Spring Boot CLI](http://www.baeldung.com/spring-boot-cli)
 
 ### Health and Nutrition
 
