@@ -294,6 +294,8 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
 *   [ES6 for Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
 *   [Six Tiny But Awesome ES7 and ES8 Features](https://davidwalsh.name/es7-es8-features)
+*   [ES6 Features](http://es6-features.org/#Constants)
+*   [Make Your Code Cleaner, Shorter and Easier to Read! ES6 Tips and Tricks.](https://dev.to/samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-2k37)
 
 ##### Testing
 
