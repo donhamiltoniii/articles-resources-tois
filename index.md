@@ -1,15 +1,3 @@
-<style>
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    background-color: #39add1;
-}
-</style>
-
 # Articles, Resources, and Things of Interest
 
 A running list of articles, resources, and things of interest that I want to remember or explore further
