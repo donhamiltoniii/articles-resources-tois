@@ -16,6 +16,9 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [JS Patterns](http://www.jspatterns.com/)
 *   [Hyperapp](https://github.com/hyperapp/hyperapp/blob/master/README.md)
 *   [Introduction to Spring Boot CLI](http://www.baeldung.com/spring-boot-cli)
+*   [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
+*   [Designing Very Large JavaScript Applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+*   [Check Out These Useful ES2015 Tips and Tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)
 
 ### Health and Nutrition
 
@@ -227,6 +230,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [**Open Source Society University**](https://github.com/ossu/computer-science)
 *   [First Timers Only](http://www.firsttimersonly.com/)
 *   [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
+*   [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 ##### Agile/Scrum
 
