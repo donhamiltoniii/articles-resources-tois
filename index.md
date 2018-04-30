@@ -206,6 +206,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)
 *   [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 *   [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)
+*   [Grid to Flex](http://www.gridtoflex.com/)
 
 ##### Flexbox
 
