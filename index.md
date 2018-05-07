@@ -207,6 +207,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 *   [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)
 *   [Grid to Flex](http://www.gridtoflex.com/)
+*   [How to make your HTML responsive by adding a single line of CSS](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
 
 ##### Flexbox
 
