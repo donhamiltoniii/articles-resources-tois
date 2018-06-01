@@ -2,8 +2,6 @@
 
 A running list of articles, resources, and things of interest that I want to remember or explore further
 
-## To Read, Use, or Test
-
 ## _TODO_
 
 *   [Discovery Testing](https://www.youtube.com/watch?list=PLIuJbrOVyGjl0keQ-QyiMEOCvmabJEf0t&v=aeX5OXO-w30)
@@ -19,35 +17,24 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 *   [Designing Very Large JavaScript Applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 *   [Check Out These Useful ES2015 Tips and Tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)
-
-### Health and Nutrition
-
+*   [Test First](http://testfirst.org/)
+*   [Solid Principles: Single Responsibility Principle](https://egkatzioura.com/2018/02/23/solid-principles-single-responsibility-principle/)
+*   [Solid Principles: Open/Closed Principle](https://egkatzioura.com/2018/02/23/solid-principles-open-closed-principle/)
+*   [Solid Principles: Liskov Substitution Principle](https://egkatzioura.com/2018/02/23/solid-principles-liskov-substitution-principle/)
+*   [Solid Principles: Interface Segregation Principle](https://egkatzioura.com/2018/02/23/solid-principles-interface-segregation-principle/)
+*   [Solid Principles: Dependency Inversion Principle](https://egkatzioura.com/2018/02/23/solid-principles-dependency-inversion-principle/)
 *   [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)
 *   [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)
-
-### Productivity
-
 *   [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)
 *   [9 ways to accelerate your learning and stay on the bleeding edge](https://hackernoon.com/9-ways-to-accelerate-your-learning-and-stay-on-the-bleeding-edge-532ac3381846)
 *   [How to Stick With Good Habits Every Day by Using the "Paper Clip Strategy"](https://jamesclear.com/paper-clips)
-
-### Programming
-
-#### Command Line
-
 *   [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)
-
-#### CSS
-
 *   [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)
 *   [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)
 *   [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)
 *   [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)
 *   [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)
 *   [How to Write a JavaScript-Free Todo App Using Just HTML and CSS](http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html?imm_mid=0f79f3&cmp=em-web-na-na-newsltr_20171101)
-
-#### General
-
 *   [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 *   [Introducing BDD](https://dannorth.net/introducing-bdd/)
 *   [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
@@ -60,30 +47,12 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Understanding SOLID Principles: Dependency Inversion](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)
 *   [Aspect Oriented Programming (AOP) in real life scenario](https://dev.to/rafalpienkowski/aspect-oriented-programming-aop-in-real-life-scenario-3ha)
 *   [Single-Responsibility Principle Done Right](https://dzone.com/articles/single-responsibility-principle-done-right)
-
-##### Testing
-
 *   [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)
 *   [Learn CI: Automated Test and Publish in 10 Min](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)
-
-#### Git/Github
-
 *   [Understanding Git - Explain it Like I'm Five](https://hackernoon.com/understanding-git-fcffd87c15a3)
-
-#### GLSL
-
 *   [Shadertoy](https://www.shadertoy.com/view/Md23DV)
-
-#### Hardware
-
 *   [Turn Your Old Router into a RangeBoosting Wi-Fi Repeater](https://lifehacker.com/5563196/turn-your-old-router-into-a-range-boosting-wi-fi-repeater/amp)
-
-#### Hosting
-
 *   [**Digital Ocean**](https://www.digitalocean.com/)
-
-#### Java
-
 *   [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)
 *   [Using the Spring @RequestMapping Annotation](https://dzone.com/articles/using-the-spring-requestmapping-annotation)
 *   [JUnit 5, Spring 5, and NoSQL Java](https://dzone.com/articles/this-week-in-spring-september-12th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)
@@ -104,13 +73,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [IoC vs. DI](https://dzone.com/articles/ioc-vs-di)
 *   [About Dependency Injection](https://dzone.com/articles/about-dependency-injection)
 *   [Bootiful Development With Spring Boot and React](https://dzone.com/articles/bootiful-development-with-spring-boot-and-react)
-
-##### Spring
-
 *   [Spring, Spring Boot, and Component Scan](https://dzone.com/articles/spring-spring-boot-and-component-scan)
-
-#### JavaScript
-
 *   [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)
 *   [Why we moved from Angular 2 to Vue.js (and why we didn't choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 *   [Build a simple Telegram Bot with Node.js](https://thedevs.network/blog/build-a-simple-telegram-bot-with-node-js?imm_mid=0f5e69&cmp=em-web-na-na-newsltr_20170906)
@@ -129,50 +92,24 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [How to Build a Simple Blog Using React and GraphQL](https://cosmicjs.com/articles/how-to-build-a-simple-blog-using-react-and-graphql-j8ouwjvh)
 *   [Scrimba: Interactive Coding Screencasts](https://scrimba.com/)
 *   [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html)
-
-##### ES6
-
 *   [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
-
-##### Libraries/Frameworks
-
--[Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
-
-###### React
-
+*   [Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 *   [Five React Practice Projects](https://daveceddia.com/react-practice-projects/?utm_campaign=0914practice)
-
-###### Angular
-
 *   [Deploy Angular Universal with Firebase](https://hackernoon.com/deploy-angular-universal-w-firebase-ad70ea2413a1?imm_mid=0f65c2&cmp=em-web-na-na-newsltr_20170920)
-
-##### Node.js
-
 *   [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 *   [Announcing Yarn 1.0](https://code.facebook.com/posts/274518539716230)
-
-##### Testing
-
 *   [Learn Mocha](https://github.com/ideaq/learn-mocha)
 *   [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 *   [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
-
-##### Webpack
-
 *   [Webpack: A Geantle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)
-
-#### Raspberry Pi & Arduino
-
 *   [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
 *   [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)
 *   [200+ Arduino Projects List For Electronics Students](https://www.electronicshub.org/arduino-project-ideas/)
-
-#### WebGL
-
 *   [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
 *   [WebGL Fundamentals](https://webglfundamentals.org/)
-
-## Read, Used, or Tested (Effective)
+*   [60+ JavaScript Tutorials and Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
+*   [Progressive Web Apps Core Guides on MDN Web Docs](,https://hacks.mozilla.org/2018/05/progressive-web-apps-core-guides-on-mdn-web-docs/)
+*   []
 
 ### Health and Wellness
 
@@ -208,6 +145,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)
 *   [Grid to Flex](http://www.gridtoflex.com/)
 *   [How to make your HTML responsive by adding a single line of CSS](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)
+*   [CSS Grid - Responsive Layouts and Components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)
 
 ##### Flexbox
 
@@ -289,10 +227,13 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
 *   [Scalable JavaScript Application Architecture](https://www.slideshare.net/nzakas/scalable-javascript-application-architecture/39-SandboxThe_sandbox_ensures_a_consistent)
 *   [MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+*   [JavaScript: Prototype vs. Class](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
+*   [14 JS Debugging Tips You Probably Didn't Know](https://raygun.com/javascript-debugging-tips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ##### Bundling
 
 *   [Why Would I Use Webpack](http://tinselcity.net/whys/packers)
+*   [If You've Ever Configured Webpack, Parcel Will Blow Your Mind](https://medium.com/@ibrahimbutt/if-youve-ever-configured-webpack-parcel-will-blow-your-mind-b615468cee78)
 
 ##### ES6+
 
@@ -315,6 +256,8 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Top 10 React Libraries on Github](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
 *   [Riotjs](http://riotjs.com/guide/)
 *   [Parcel](https://parceljs.org/)
+*   [The Beginners Guide to Meteor](https://flaviocopes.com/meteor/)
+*   [Meteor Tutorials](https://www.meteor.com/tutorials)
 
 ###### Node.js
 
