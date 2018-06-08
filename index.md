@@ -101,7 +101,7 @@ A running list of articles, resources, and things of interest that I want to rem
 *   [Learn Mocha](https://github.com/ideaq/learn-mocha)
 *   [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 *   [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)
-*   [Webpack: A Geantle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)
+*   [Webpack: A Gentle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)
 *   [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)
 *   [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)
 *   [200+ Arduino Projects List For Electronics Students](https://www.electronicshub.org/arduino-project-ideas/)
@@ -209,6 +209,10 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Spring
 
 *   [Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)
+
+##### Hamcrest
+
+*   [Using Hamcrest for testing - Tutorial](http://www.vogella.com/tutorials/Hamcrest/article.html)
 
 #### JavaScript
 
