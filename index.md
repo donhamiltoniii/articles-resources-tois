@@ -4,7 +4,8 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Frequently Used
 
--   🔥🔥🔥 [Resources For Web Development](https://zero-to-mastery.github.io/resources/)
+-   [The definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+-   🔥🔥🔥[Resources For Web Development](https://zero-to-mastery.github.io/resources/)
 -   🔥🔥🔥[Webpack Config Generator](https://webpack.jakoblind.no/)
 -   [Web Development Skills to Help You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180711+web+nl&mkt_tok=eyJpIjoiWW1RM05tSTVZek16WVdRMCIsInQiOiJSZGlHcEg4MUp4M0xKb0JXU05YdXdlMTBsS3orQVwvdFNDRDk3d09WcmI3c25OZDJ5bjZpdXZsN3ZSdDU5WnQ5S3BTYU9mdGNKVTNlRHQ1eGZmbDFUZkl2cnJsbXBmRm8zNkttaXRTUUlQTmNwMnFZS1wvSmdRVzRkTzRTYm9tcktyIn0%3D)
 
