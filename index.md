@@ -11,6 +11,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## _TODO_
 
+-   [Cros-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 -   🔥[How To Set Up Apache Virtual Hosts on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04)
 -   [Discovery Testing](https://www.youtube.com/watch?list=PLIuJbrOVyGjl0keQ-QyiMEOCvmabJEf0t&v=aeX5OXO-w30)
 -   [But Really, What is a JavaScript Mock](https://blog.kentcdodds.com/but-really-what-is-a-javascript-mock-10d060966f7d)
