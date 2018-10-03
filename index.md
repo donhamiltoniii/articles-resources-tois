@@ -192,6 +192,7 @@ A running list of articles, resources, and things of interest that I want to rem
 -   [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
 -   [Git Style Guide](https://github.com/agis/git-style-guide)
 -   [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
+-   🔥[Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)
 
 ##### Testing
 
