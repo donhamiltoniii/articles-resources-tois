@@ -4,6 +4,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Frequently Used
 
+-   [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 -   [The definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 -   🔥🔥🔥[Resources For Web Development](https://zero-to-mastery.github.io/resources/)
 -   🔥🔥🔥[Webpack Config Generator](https://webpack.jakoblind.no/)
