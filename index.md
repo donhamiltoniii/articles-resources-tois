@@ -126,24 +126,13 @@ A running list of articles, resources, and things of interest that I want to rem
 
 -   [Nine Delicious and Simple Keto Crockpot Recipes](https://thedailynutrition.com/keto-crockpot-recipes/)
 
-#### Exercise
-
--   [Lose Belly Fat With Just Two Exercises](https://www.menshealth.com/fitness/lose-belly-fat-two-exercises?amp)
-
 ### Programming
 
 #### CSS
 
--   [Intriguing CSS Level 4 Selectors](https://webdesign.tutsplus.com/tutorials/intriguing-css-level-4-selectors--cms-29499?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
--   [A Rube Goldberg Machine](https://samsunginter.net/rube-goldberg-article/?utm_source=CSS-Weekly&utm_campaign=Issue-283&utm_medium=RSS)
 -   [BADA55.io](http://bada55.io/)
 -   [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)
 -   [Media Queries For Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
--   [Understanding CSS Layout And The Block Formatting Context](https://www.smashingmagazine.com/2017/12/understanding-css-layout-block-formatting-context/?utm_source=frontendfocus&utm_medium=email)
--   [ABEM: Useful Adaptation BEM](https://css-tricks.com/abem-useful-adaptation-bem/)
--   [Flexible Type Using Root](http://allthingssmitty.com/2016/12/05/flexible-type-using-root/)
--   [From Bootstrap to CSS Grid](https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4?mkt_tok=eyJpIjoiWXpJNE5qUTJaV00wTlRrMSIsInQiOiIzdE1QOHptT0s4bUhjZ1dadlpjd0szOHJnYVFHWEVub1NBNzhOZ1pMTXhrcFRcL2ozbDI4OTRMc2xCK3hxOTBNNDhsYzQzM1JzXC9hK0hwVlVabDFlV3FjMGhmbDI4bGNlZkxQVWFBXC9oS2trYStZTWhCcVZ4ZE9Wa3B6XC9lN0xQMmUifQ%3D%3D)
--   [Stop Using CSS Selectors for Non-CSS](https://css-tricks.com/stop-using-css-selectors-non-css/)
 -   [CSS Naming Conventions the Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 -   [Resilient CSS (7 Part series)](https://www.youtube.com/watch?v=u00FY9vADfQ)
 
@@ -166,19 +155,10 @@ A running list of articles, resources, and things of interest that I want to rem
 
 #### General
 
--   [SitePoint: Programming Books and Tutorials](https://www.sitepoint.com/)
--   [370 Free Online Programming and Computer Science Courses You Can Start This Month](https://medium.freecodecamp.org/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
--   [JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
--   [Why isn't agile Working?](https://hackernoon.com/why-isnt-agile-working-d7127af1c552)
 -   [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)
--   [Work Smaller (Even If It Makes No Sense)](https://hackernoon.com/work-small-even-if-it-makes-no-sense-6bd1f401fc3a)
--   [I Thought I Understood Open Source. I Was Wrong](https://hackernoon.com/i-thought-i-understood-open-source-i-was-wrong-cf54999c097b)
 -   [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)
--   [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
 -   [**Every Programmer Should Know**](https://github.com/mtdvio/every-programmer-should-know)
 -   [**P1xt Guides**](https://github.com/P1xt/p1xt-guides#get-job-ready-with-13-projects-2-courses-and-10-books)
--   [**Math As Code**](https://github.com/Jam3/math-as-code)
--   [**Open Source Society University**](https://github.com/ossu/computer-science)
 -   [First Timers Only](http://www.firsttimersonly.com/)
 -   [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 -   [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
@@ -190,7 +170,6 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Git/Github
 
 -   [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)
--   [Git Style Guide](https://github.com/agis/git-style-guide)
 -   [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 -   🔥[Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)
 
@@ -201,17 +180,8 @@ A running list of articles, resources, and things of interest that I want to rem
 -   [Test-Driven Code Review](https://hackernoon.com/test-driven-code-review-3f05f6cee400)
 -   [My Favorite Way To TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles)
 
-#### GraphQL
-
--   [REST vs. GraphQL](https://blog.pusher.com/rest-versus-graphql/)
-
-#### HTML
-
--   [HEAD](https://github.com/joshbuchea/HEAD?utm_source=frontendfocus&utm_medium=email#recommended-minimum)
-
 #### Java
 
--   [Javaranch: A Friendly Place to Learn Java Programming](https://javaranch.com/)
 -   [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 -   [Spring Doc](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)
 -   [Getters and Setters Considered Harmful](https://dzone.com/articles/getters-and-setters-considered-harmful)
@@ -220,6 +190,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 -   🔥[Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)
 -   [Spring Boot](http://www.baeldung.com/spring-boot)
+-   [Spring ResponseStatusException](https://www.baeldung.com/spring-response-status-exception)
 
 ##### Hamcrest
 
@@ -227,71 +198,25 @@ A running list of articles, resources, and things of interest that I want to rem
 
 #### JavaScript
 
--   [Learning JavaScript: 9 Common Mistakes That Are Holding You Back](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
--   [Choosing the Right JavaScriptFramework for the job](https://www.lullabot.com/articles/choosing-the-right-javascript-framework-for-the-job)
--   [I am a Java Developer Looking to Learn Node.js, New JavaScript Libraries and Frameworks](https://www.quora.com/I-am-Java-developer-who-wants-to-learn-Node-js-and-AngularJS-How-should-I-start-to-learn-them)
+-   🔥🔥🔥[JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)
 -   [JavaScript30](https://javascript30.com/)
--   [The Simplest React Stack](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f?imm_mid=0f6266&cmp=em-web-na-na-newsltr_20170913)
--   [Build a CMS-Powered Browser App in 2 Minutes](https://hackernoon.com/build-a-cms-powered-browser-app-in-2-minutes-7a0adbef36a9)
 -   [Learn & Understand JavaScript's Map Function](https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783)
 -   [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
--   [JavaScript.info](http://javascript.info/getting-started)
 -   [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)
--   [Top Javascript Libraries & Tech To Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
 -   [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator/amp?__twitter_impression=true)
 -   [The Ultimate Guide to Javascript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)
--   [Currying in JS](https://hackernoon.com/currying-in-js-d9ddc64f162e)
 -   [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)
--   [Scalable JavaScript Application Architecture](https://www.slideshare.net/nzakas/scalable-javascript-application-architecture/39-SandboxThe_sandbox_ensures_a_consistent)
 -   [MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 -   [JavaScript: Prototype vs. Class](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)
--   [14 JS Debugging Tips You Probably Didn't Know](https://raygun.com/javascript-debugging-tips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-
-##### Bundling
-
--   [Why Would I Use Webpack](http://tinselcity.net/whys/packers)
--   [If You've Ever Configured Webpack, Parcel Will Blow Your Mind](https://medium.com/@ibrahimbutt/if-youve-ever-configured-webpack-parcel-will-blow-your-mind-b615468cee78)
 
 ##### ES6+
 
--   [Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
--   [Template Literals are Strictly Better Strings](https://ponyfoo.com/articles/template-literals-strictly-better-strings)
--   [ES6 for Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414)
--   [Six Tiny But Awesome ES7 and ES8 Features](https://davidwalsh.name/es7-es8-features)
--   [ES6 Features](http://es6-features.org/#Constants)
+-   🔥🔥🔥[Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)
 -   [Make Your Code Cleaner, Shorter and Easier to Read! ES6 Tips and Tricks.](https://dev.to/samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-2k37)
-
-##### Testing
-
--   [Mocha Docs](https://mochajs.org/)
--   [Chai Assertion Library](http://chaijs.com/api/)
--   [But really, what is JavaScript testing?]([this one](https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77?mkt_tok=eyJpIjoiWXpJNE5qUTJaV00wTlRrMSIsInQiOiIzdE1QOHptT0s4bUhjZ1dadlpjd0szOHJnYVFHWEVub1NBNzhOZ1pMTXhrcFRcL2ozbDI4OTRMc2xCK3hxOTBNNDhsYzQzM1JzXC9hK0hwVlVabDFlV3FjMGhmbDI4bGNlZkxQVWFBXC9oS2trYStZTWhCcVZ4ZE9Wa3B6XC9lN0xQMmUifQ%3D%3D))
-
-##### Libraries/Frameworks
-
--   [Web Frameworks: Conclusions](https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/)
--   [Top 10 React Libraries on Github](https://hackernoon.com/top-10-react-libraries-on-github-ebf730e7ac25)
--   [Riotjs](http://riotjs.com/guide/)
--   [Parcel](https://parceljs.org/)
--   [The Beginners Guide to Meteor](https://flaviocopes.com/meteor/)
--   [Meteor Tutorials](https://www.meteor.com/tutorials)
 
 ###### Node.js
 
--   [Companies Who Trust Node.js](https://medium.com/@_ericelliott/companies-who-trust-node-js-4bfb8385ab84)
 -   [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
-
-###### jQuery
-
--   [Optimize your jQuery selectors for best performance](http://www.learningjquery.com/2017/10/optimize-your-jquery-selectors-for-best-performance-2)
-
-###### React
-
--   [React, Redux, and JavaScript Architecture](https://jrsinclair.com/articles/2018/react-redux-javascript-architecture/)
-
-###### Vue.js
-
--   [Style Guide](https://vuejs.org/v2/style-guide/)
 
 #### Katas, Tutorial, and Learning Tools
 
@@ -310,20 +235,6 @@ A running list of articles, resources, and things of interest that I want to rem
 
 -   [Learn Ruby](http://rubykoans.com/)
 
-### Reading and Retention
-
--   [How to Retain More from The Books You Read in Five Simple Steps](https://medium.com/darius-foroux/how-to-retain-more-from-the-books-you-read-in-5-simple-steps-700d90653a41)
-
-### Survival
-
-#### Knives
-
--   [M40's 10¢ Survival Knife](http://www.m4040.com/Survival/10_Cent_Survival_Knife/10_Cent_Survival_Knife.htm)
-
-#### Paracord
+### Paracord
 
 -   [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)
-
-### Teaching Materials
-
--   [Code Highlighting Tool (JS Library)](https://highlightjs.org/)
