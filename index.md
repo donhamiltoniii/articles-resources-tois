@@ -4,6 +4,8 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Frequently Used
 
+-   🔥🔥🔥[How To Remotely Copy Files Over SSH Without Entering Your Password](https://www.howtogeek.com/66776/HOW-TO-REMOTELY-COPY-FILES-OVER-SSH-WITHOUT-ENTERING-YOUR-PASSWORD/)
+-   🔥🔥🔥[Spring Boot](http://www.baeldung.com/spring-boot)
 -   [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 -   [The definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 -   🔥🔥🔥[Resources For Web Development](https://zero-to-mastery.github.io/resources/)
@@ -189,7 +191,6 @@ A running list of articles, resources, and things of interest that I want to rem
 ##### Spring
 
 -   🔥[Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)
--   [Spring Boot](http://www.baeldung.com/spring-boot)
 -   [Spring ResponseStatusException](https://www.baeldung.com/spring-response-status-exception)
 
 ##### Hamcrest
