@@ -165,6 +165,7 @@ A running list of articles, resources, and things of interest that I want to rem
 -   [First Timers Only](http://www.firsttimersonly.com/)
 -   [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)
 -   [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+-   [Functional OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)
 
 ##### Agile/Scrum
 
