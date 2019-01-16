@@ -4,6 +4,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Frequently Used
 
+- [Webpack: 0 to Automated Testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
 - [How Redux Works](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)
 - [OO Design Principles in Java](https://dzone.com/articles/object-oriented-design-principles-in-java)
 - 🔥🔥🔥[How To Remotely Copy Files Over SSH Without Entering Your Password](https://www.howtogeek.com/66776/HOW-TO-REMOTELY-COPY-FILES-OVER-SSH-WITHOUT-ENTERING-YOUR-PASSWORD/)
