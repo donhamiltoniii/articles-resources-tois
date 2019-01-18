@@ -8,6 +8,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ## Frequently Used
 
+- [A Successful Git Branching Strategy](https://nvie.com/posts/a-successful-git-branching-model/)
 - [Webpack: 0 to Automated Testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
 - [How Redux Works](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)
 - [OO Design Principles in Java](https://dzone.com/articles/object-oriented-design-principles-in-java)
