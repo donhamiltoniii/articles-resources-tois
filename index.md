@@ -2,6 +2,10 @@
 
 A running list of articles, resources, and things of interest that I want to remember or explore further
 
+## NEVER FORGET!
+
+- [Content Assist Mac (Can't use <alt\> + <space\>)](https://www.stefaanlippens.net/code_completion_shortcut_eclipse_osx/)
+
 ## Frequently Used
 
 - [Webpack: 0 to Automated Testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
