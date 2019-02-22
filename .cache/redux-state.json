@@ -1,0 +1,1629 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "path": "/dev-404-page/",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b1a500a7039f4cb2191218bc06be19d1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "42d3e3314b2e0a0b5143ccda66ab7364",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "cb7078f9c92b2d0d0611d0ed897e4a8a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "960633d8680f849ffc87777a43287172",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8c80d8cb4a4105a4d1dbe8a2312928a0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b7bc1969413b7c0a085c6e530b76dbd6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.6",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e2b6be2fe44db998a34e09d87e577159",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f6677094-ffb5-5aa8-9081-a7bcb6f2a100": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-source-filesystem/2.0.22/node_modules/gatsby-source-filesystem",
+      "id": "f6677094-ffb5-5aa8-9081-a7bcb6f2a100",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.22",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "images",
+        "path": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-source-filesystem/2.0.22/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e0e396156533450b973a8bfb4b26427a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.14",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.14",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "5bb3cc94ad1bf6f8f5dcc1c051c053bd",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.21",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreInit"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.21",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0225135b8029cacc686da2bcb959bb68",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.18",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.18",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ed7df1e9451e19a84ee267970c8ba77f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "8722add8-c85e-5d5d-976e-1e8c684a1ab0": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-source-filesystem/2.0.22/node_modules/gatsby-source-filesystem",
+      "id": "8722add8-c85e-5d5d-976e-1e8c684a1ab0",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.22",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/content",
+        "name": "markdown-pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-source-filesystem/2.0.22/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.22",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e6e2fd6c9fa1db8f29b632d7c42614b9",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-transformer-remark/2.2.6/node_modules/gatsby-transformer-remark",
+      "id": "9f28d07a-37b6-51d1-b2d0-5071b57d6dd2",
+      "name": "gatsby-transformer-remark",
+      "version": "2.2.6",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/.registry.npmjs.org/gatsby-transformer-remark/2.2.6/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "2.2.6",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "mdast-util-to-string",
+            "version": "^1.0.5"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^9.0.0"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.18.2"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.5"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.2"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.3.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.88"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "9de49293d9cf2c36ed8af934af40fac3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "08cec1f25dcb5eb800324d3fbb88ef9d",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.1.16"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.29"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.18"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.24"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.6"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.21"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.22"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^2.2.6"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.14"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.3"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b79e8b984495f87a26fc30f8849893e3",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "80384f0a-df20-544d-9ac7-3f4756514b72": {
+      "resolve": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-page-creator",
+      "id": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b866b02d366a7a84cae5bde43eac053e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-02-22T15:59:26.906Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b6c6f6ef09cfaf09958148276ada8a6e",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1d3aac13-bd7c-544c-8884-e07b5ec4e941": {
+      "id": "1d3aac13-bd7c-544c-8884-e07b5ec4e941",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ce93361ea80dc4b994c873f1acc0e3dd",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 128,
+      "prettySize": "128 B",
+      "modifiedTime": "2019-02-22T15:08:31.818Z",
+      "accessTime": "2019-02-22T15:59:34.420Z",
+      "changeTime": "2019-02-22T15:08:31.818Z",
+      "birthTime": "2019-02-22T15:08:31.809Z",
+      "root": "/",
+      "dir": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 4,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4994127,
+      "blocks": 0,
+      "atimeMs": 1550851174419.8674,
+      "mtimeMs": 1550848111817.5913,
+      "ctimeMs": 1550848111817.5913,
+      "birthtimeMs": 1550848111808.57,
+      "atime": "2019-02-22T15:59:34.420Z",
+      "mtime": "2019-02-22T15:08:31.818Z",
+      "ctime": "2019-02-22T15:08:31.818Z",
+      "birthtime": "2019-02-22T15:08:31.809Z"
+    },
+    "2238d125-13ca-5385-ae22-8792108ef6d4": {
+      "id": "2238d125-13ca-5385-ae22-8792108ef6d4",
+      "children": [
+        "c616bebd-6a49-538f-8580-4ebfc1ed8bd5"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-02-22T15:08:31.820Z",
+      "accessTime": "2019-02-22T15:58:40.367Z",
+      "changeTime": "2019-02-22T15:08:31.820Z",
+      "birthTime": "2019-02-22T15:08:31.818Z",
+      "root": "/",
+      "dir": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4994129,
+      "blocks": 48,
+      "atimeMs": 1550851120366.9731,
+      "mtimeMs": 1550848111820.2476,
+      "ctimeMs": 1550848111820.4736,
+      "birthtimeMs": 1550848111817.5317,
+      "atime": "2019-02-22T15:58:40.367Z",
+      "mtime": "2019-02-22T15:08:31.820Z",
+      "ctime": "2019-02-22T15:08:31.820Z",
+      "birthtime": "2019-02-22T15:08:31.818Z"
+    },
+    "c616bebd-6a49-538f-8580-4ebfc1ed8bd5": {
+      "id": "c616bebd-6a49-538f-8580-4ebfc1ed8bd5",
+      "children": [],
+      "parent": "2238d125-13ca-5385-ae22-8792108ef6d4",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "3e994d1a-e788-56a9-a23e-d0efaeb58604": {
+      "id": "3e994d1a-e788-56a9-a23e-d0efaeb58604",
+      "children": [
+        "478ccf9c-ac30-5db6-b5b5-5f503e1d2ff7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-02-22T15:08:31.817Z",
+      "accessTime": "2019-02-22T15:58:40.367Z",
+      "changeTime": "2019-02-22T15:08:31.817Z",
+      "birthTime": "2019-02-22T15:08:31.809Z",
+      "root": "/",
+      "dir": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4994128,
+      "blocks": 328,
+      "atimeMs": 1550851120366.9683,
+      "mtimeMs": 1550848111816.7983,
+      "ctimeMs": 1550848111817.0203,
+      "birthtimeMs": 1550848111809.2236,
+      "atime": "2019-02-22T15:58:40.367Z",
+      "mtime": "2019-02-22T15:08:31.817Z",
+      "ctime": "2019-02-22T15:08:31.817Z",
+      "birthtime": "2019-02-22T15:08:31.809Z"
+    },
+    "478ccf9c-ac30-5db6-b5b5-5f503e1d2ff7": {
+      "id": "478ccf9c-ac30-5db6-b5b5-5f503e1d2ff7",
+      "children": [],
+      "parent": "3e994d1a-e788-56a9-a23e-d0efaeb58604",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c64eab64-20d4-5f18-8fe8-876310b51097": {
+      "id": "c64eab64-20d4-5f18-8fe8-876310b51097",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "35806f664f655e0aab9daeadd3a8f5f3",
+        "type": "Directory",
+        "description": "Directory \"content\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/content",
+      "relativePath": "",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-02-22T15:05:51.168Z",
+      "accessTime": "2019-02-22T15:59:34.475Z",
+      "changeTime": "2019-02-22T15:05:51.168Z",
+      "birthTime": "2019-02-22T15:05:46.053Z",
+      "root": "/",
+      "dir": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois",
+      "base": "content",
+      "ext": "",
+      "name": "content",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4927452,
+      "blocks": 0,
+      "atimeMs": 1550851174475.0164,
+      "mtimeMs": 1550847951168.1401,
+      "ctimeMs": 1550847951168.1401,
+      "birthtimeMs": 1550847946052.5173,
+      "atime": "2019-02-22T15:59:34.475Z",
+      "mtime": "2019-02-22T15:05:51.168Z",
+      "ctime": "2019-02-22T15:05:51.168Z",
+      "birthtime": "2019-02-22T15:05:46.053Z"
+    },
+    "de29758a-7d72-5b34-8d2b-6d105ae2be29": {
+      "id": "de29758a-7d72-5b34-8d2b-6d105ae2be29",
+      "children": [
+        "f926d0b9-a3ee-5007-a4db-f503abb706b4"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "48ecaaccd4aec497e463e03eb9a764b3",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "markdown-pages",
+      "absolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/content/index.md",
+      "relativePath": "index.md",
+      "extension": "md",
+      "size": 20847,
+      "prettySize": "20.8 kB",
+      "modifiedTime": "2019-02-22T15:05:17.715Z",
+      "accessTime": "2019-02-22T15:56:30.431Z",
+      "changeTime": "2019-02-22T15:05:51.168Z",
+      "birthTime": "2019-02-22T15:05:17.714Z",
+      "root": "/",
+      "dir": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/content",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4927361,
+      "blocks": 48,
+      "atimeMs": 1550850990431.2417,
+      "mtimeMs": 1550847917714.5334,
+      "ctimeMs": 1550847951168.14,
+      "birthtimeMs": 1550847917713.9775,
+      "atime": "2019-02-22T15:56:30.431Z",
+      "mtime": "2019-02-22T15:05:17.715Z",
+      "ctime": "2019-02-22T15:05:51.168Z",
+      "birthtime": "2019-02-22T15:05:17.714Z"
+    },
+    "f926d0b9-a3ee-5007-a4db-f503abb706b4": {
+      "id": "f926d0b9-a3ee-5007-a4db-f503abb706b4",
+      "children": [],
+      "parent": "de29758a-7d72-5b34-8d2b-6d105ae2be29",
+      "internal": {
+        "content": "# Articles, Resources, and Things of Interest\n\nA running list of articles, resources, and things of interest that I want to remember or explore further\n\n## Extremely 🔥 Take\n\n- [The “Backendification” of Frontend Development](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4?mkt_tok=eyJpIjoiTURZeE9XUTROREV4WWprNCIsInQiOiJCdjI4eGVLaDlGTGN3NVFwVzBRY2JUSEMxZHJrZVlIVExaSHVcL3FHQUxnTU1MOTBMZFlsUVplTTlyS21sTit0QStIUmxFV3FmYzVhK1lldEtHU3dKUFJsQ2d2NDJ6WmxNTGV4empzK1Y2YlBmOFUzTWNOM0V1RkZIQ1E2bkl0Zm8ifQ%3D%3D)\n\n## Frequently Used\n\n- [A Successful Git Branching Strategy](https://nvie.com/posts/a-successful-git-branching-model/)\n- [Webpack: 0 to Automated Testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)\n- [How Redux Works](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)\n- [OO Design Principles in Java](https://dzone.com/articles/object-oriented-design-principles-in-java)\n- 🔥🔥🔥[How To Remotely Copy Files Over SSH Without Entering Your Password](https://www.howtogeek.com/66776/HOW-TO-REMOTELY-COPY-FILES-OVER-SSH-WITHOUT-ENTERING-YOUR-PASSWORD/)\n- 🔥🔥🔥[Spring Boot](http://www.baeldung.com/spring-boot)\n- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)\n- [The definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)\n- 🔥🔥🔥[Resources For Web Development](https://zero-to-mastery.github.io/resources/)\n- 🔥🔥🔥[Webpack Config Generator](https://webpack.jakoblind.no/)\n- [Web Development Skills to Help You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180711+web+nl&mkt_tok=eyJpIjoiWW1RM05tSTVZek16WVdRMCIsInQiOiJSZGlHcEg4MUp4M0xKb0JXU05YdXdlMTBsS3orQVwvdFNDRDk3d09WcmI3c25OZDJ5bjZpdXZsN3ZSdDU5WnQ5S3BTYU9mdGNKVTNlRHQ1eGZmbDFUZkl2cnJsbXBmRm8zNkttaXRTUUlQTmNwMnFZS1wvSmdRVzRkTzRTYm9tcktyIn0%3D)\n\n## _TODO_\n\n- [Cros-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)\n- 🔥[How To Set Up Apache Virtual Hosts on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04)\n- [Discovery Testing](https://www.youtube.com/watch?list=PLIuJbrOVyGjl0keQ-QyiMEOCvmabJEf0t&v=aeX5OXO-w30)\n- [But Really, What is a JavaScript Mock](https://blog.kentcdodds.com/but-really-what-is-a-javascript-mock-10d060966f7d)\n- [But Really, What is a JavaScript Test](https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77)\n- [Learning Node.js in 2018](https://medium.com/the-node-js-collection/survey-learning-node-js-in-2018-330ec850a2e9)\n- [React Holiday](https://react.holiday/)\n- [Redux Intro Using Vanilla JS](https://www.youtube.com/watch?v=wuabk5gqHVc)\n- [Free React Bootcamp](https://www.youtube.com/watch?v=8GXXGJRDMdQ)\n- [JS Patterns](http://www.jspatterns.com/)\n- [Hyperapp](https://github.com/hyperapp/hyperapp/blob/master/README.md)\n- [Introduction to Spring Boot CLI](http://www.baeldung.com/spring-boot-cli)\n- [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)\n- [Designing Very Large JavaScript Applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)\n- [Check Out These Useful ES2015 Tips and Tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)\n- [Test First](http://testfirst.org/)\n- [Solid Principles: Single Responsibility Principle](https://egkatzioura.com/2018/02/23/solid-principles-single-responsibility-principle/)\n- [Solid Principles: Open/Closed Principle](https://egkatzioura.com/2018/02/23/solid-principles-open-closed-principle/)\n- [Solid Principles: Liskov Substitution Principle](https://egkatzioura.com/2018/02/23/solid-principles-liskov-substitution-principle/)\n- [Solid Principles: Interface Segregation Principle](https://egkatzioura.com/2018/02/23/solid-principles-interface-segregation-principle/)\n- [Solid Principles: Dependency Inversion Principle](https://egkatzioura.com/2018/02/23/solid-principles-dependency-inversion-principle/)\n- [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)\n- [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)\n- [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)\n- [9 ways to accelerate your learning and stay on the bleeding edge](https://hackernoon.com/9-ways-to-accelerate-your-learning-and-stay-on-the-bleeding-edge-532ac3381846)\n- [How to Stick With Good Habits Every Day by Using the \"Paper Clip Strategy\"](https://jamesclear.com/paper-clips)\n- [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)\n- [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)\n- [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)\n- [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)\n- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)\n- [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)\n- [How to Write a JavaScript-Free Todo App Using Just HTML and CSS](http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html?imm_mid=0f79f3&cmp=em-web-na-na-newsltr_20171101)\n- [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)\n- [Introducing BDD](https://dannorth.net/introducing-bdd/)\n- [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)\n- [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)\n- [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)\n- [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)\n- [25 Programming Books for the Aspiring Developer](http://blog.teamtreehouse.com/25-programming-books-for-the-aspiring-developer)\n- [Top 10 Student Favorite Tech Podcasts](http://blog.teamtreehouse.com/top-10-student-favorite-podcasts)\n- [My Honest Opinion About Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)\n- [Understanding SOLID Principles: Dependency Inversion](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)\n- [Aspect Oriented Programming (AOP) in real life scenario](https://dev.to/rafalpienkowski/aspect-oriented-programming-aop-in-real-life-scenario-3ha)\n- [Single-Responsibility Principle Done Right](https://dzone.com/articles/single-responsibility-principle-done-right)\n- [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)\n- [Learn CI: Automated Test and Publish in 10 Min](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)\n- [Understanding Git - Explain it Like I'm Five](https://hackernoon.com/understanding-git-fcffd87c15a3)\n- [Shadertoy](https://www.shadertoy.com/view/Md23DV)\n- [Turn Your Old Router into a RangeBoosting Wi-Fi Repeater](https://lifehacker.com/5563196/turn-your-old-router-into-a-range-boosting-wi-fi-repeater/amp)\n- [**Digital Ocean**](https://www.digitalocean.com/)\n- [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)\n- [Using the Spring @RequestMapping Annotation](https://dzone.com/articles/using-the-spring-requestmapping-annotation)\n- [JUnit 5, Spring 5, and NoSQL Java](https://dzone.com/articles/this-week-in-spring-september-12th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)\n- [Code Smells: If-statements](https://dzone.com/articles/code-smells-if-statements)\n- [Four Techniques for Writing Better Java](https://dzone.com/articles/4-more-techniques-for-writing-better-java)\n- [Getting to Know java.nio.file.Path](https://dzone.com/articles/getting-to-know-javaniofilepath-part-1)\n- [Understanding, Accepting, and Leveraging Optional in Java](https://dzone.com/articles/understanding-accepting-and-leveraging-optional-in)\n- [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)\n- [Creating a REST Web Service with Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)\n- [Java Persistence API Introduction (Part 1)](https://dzone.com/articles/java-persistence-api-introduction-part-1)\n- [A Reactor Core Tutorial](https://dzone.com/articles/reactor-core-tutorial)\n- [Sneakily Throwing Exceptions in Lambda Expressions](https://dzone.com/articles/sneakily-throwing-exceptions-in-lambda-expressions)\n- [Build a Secure Notes App With Kotlin, TypeScript, and Okta](https://dzone.com/articles/build-a-secure-notes-application-with-kotlin-types)\n- [Session Management in Java Web Apps](https://dzone.com/articles/session-management-in-java-web-apps?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)\n- [How Spring MVC Really Works](https://dzone.com/articles/how-spring-mvc-really-works)\n- [Spring 5, Embedded Tomcat 8, and Gradle](https://dzone.com/articles/spring-5-embedded-tomcat-8-and-gradle)\n- [Codingbat](http://codingbat.com/java)\n- [IoC vs. DI](https://dzone.com/articles/ioc-vs-di)\n- [About Dependency Injection](https://dzone.com/articles/about-dependency-injection)\n- [Bootiful Development With Spring Boot and React](https://dzone.com/articles/bootiful-development-with-spring-boot-and-react)\n- [Spring, Spring Boot, and Component Scan](https://dzone.com/articles/spring-spring-boot-and-component-scan)\n- [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)\n- [Why we moved from Angular 2 to Vue.js (and why we didn't choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)\n- [Build a simple Telegram Bot with Node.js](https://thedevs.network/blog/build-a-simple-telegram-bot-with-node-js?imm_mid=0f5e69&cmp=em-web-na-na-newsltr_20170906)\n- [Modern Modules](https://medium.com/@mikeal/modern-modules-d99b6867b8f1)\n- [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)\n- [**_Coding Tip: Try to Code Without If-statements_**](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)\n- [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720) -[The Wonderful World of Webpack](http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/)\n- [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)\n- [**Setting up Webpack, Babel, and React from scratch, revisited**](https://stanko.github.io/webpack-babel-react-revisited/?utm_source=reactnl&utm_medium=email)\n- [Challenge: Programming without variables in JavaScript](https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e)\n- [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)\n- [Object Oriented Programming in Vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)\n- [Looking at Tree-Shaking in JavaScript with Rollup](https://justintimecoder.com/treeshaking-in-javascript-with-rollup/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=85)\n- [Migrating towards Yarn and Webpack](http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/)\n- [12 Common Javascript Questions Answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)\n- [How to Build a Simple Blog Using React and GraphQL](https://cosmicjs.com/articles/how-to-build-a-simple-blog-using-react-and-graphql-j8ouwjvh)\n- [Scrimba: Interactive Coding Screencasts](https://scrimba.com/)\n- [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html)\n- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)\n- [Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)\n- [Five React Practice Projects](https://daveceddia.com/react-practice-projects/?utm_campaign=0914practice)\n- [Deploy Angular Universal with Firebase](https://hackernoon.com/deploy-angular-universal-w-firebase-ad70ea2413a1?imm_mid=0f65c2&cmp=em-web-na-na-newsltr_20170920)\n- [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)\n- [Announcing Yarn 1.0](https://code.facebook.com/posts/274518539716230)\n- [Learn Mocha](https://github.com/ideaq/learn-mocha)\n- [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)\n- [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)\n- [Webpack: A Gentle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)\n- [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)\n- [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)\n- [200+ Arduino Projects List For Electronics Students](https://www.electronicshub.org/arduino-project-ideas/)\n- [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)\n- [WebGL Fundamentals](https://webglfundamentals.org/)\n- [60+ JavaScript Tutorials and Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)\n- [Progressive Web Apps Core Guides on MDN Web Docs](,https://hacks.mozilla.org/2018/05/progressive-web-apps-core-guides-on-mdn-web-docs/)\n\n## Recommended\n\n### Health and Wellness\n\n- [Nine Delicious and Simple Keto Crockpot Recipes](https://thedailynutrition.com/keto-crockpot-recipes/)\n\n### Programming\n\n#### CSS\n\n- [BADA55.io](http://bada55.io/)\n- [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)\n- [Media Queries For Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)\n- [CSS Naming Conventions the Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)\n- [Resilient CSS (7 Part series)](https://www.youtube.com/watch?v=u00FY9vADfQ)\n\n##### Grid\n\n- [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)\n- [Grid by Example](https://gridbyexample.com/)\n- [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)\n- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)\n- [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)\n- [Grid to Flex](http://www.gridtoflex.com/)\n- [How to make your HTML responsive by adding a single line of CSS](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)\n- [CSS Grid - Responsive Layouts and Components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)\n\n##### Flexbox\n\n- [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)\n- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)\n- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\n\n#### General\n\n- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)\n- [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)\n- [**Every Programmer Should Know**](https://github.com/mtdvio/every-programmer-should-know)\n- [**P1xt Guides**](https://github.com/P1xt/p1xt-guides#get-job-ready-with-13-projects-2-courses-and-10-books)\n- [First Timers Only](http://www.firsttimersonly.com/)\n- [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)\n- [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)\n- [Functional OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)\n\n##### Agile/Scrum\n\n- [Scrum Training Series](michaeljames.org)\n\n##### Git/Github\n\n- [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)\n- [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)\n- 🔥[Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)\n\n##### Testing\n\n- [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)\n- [No.](https://medium.com/@_ericelliott/no-2aca272faac5)\n- [Test-Driven Code Review](https://hackernoon.com/test-driven-code-review-3f05f6cee400)\n- [My Favorite Way To TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles)\n\n#### Java\n\n- [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)\n- [Spring Doc](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)\n- [Getters and Setters Considered Harmful](https://dzone.com/articles/getters-and-setters-considered-harmful)\n\n##### Spring\n\n- 🔥[Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)\n- [Spring ResponseStatusException](https://www.baeldung.com/spring-response-status-exception)\n\n##### Hamcrest\n\n- [Using Hamcrest for testing - Tutorial](http://www.vogella.com/tutorials/Hamcrest/article.html)\n\n#### JavaScript\n\n- 🔥🔥🔥[JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)\n- [JavaScript30](https://javascript30.com/)\n- [Learn & Understand JavaScript's Map Function](https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783)\n- [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)\n- [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)\n- [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator/amp?__twitter_impression=true)\n- [The Ultimate Guide to Javascript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)\n- [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)\n- [MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)\n- [JavaScript: Prototype vs. Class](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)\n\n##### ES6+\n\n- 🔥🔥🔥[Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)\n- [Make Your Code Cleaner, Shorter and Easier to Read! ES6 Tips and Tricks.](https://dev.to/samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-2k37)\n\n###### Node.js\n\n- [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)\n\n#### Katas, Tutorial, and Learning Tools\n\n- [Code Kata](http://codekata.com/kata/codekata-intro/)\n- [ES6 Katas](http://es6katas.org/)\n- [Groovy Koans](http://www.groovy-koans.org/)\n- [Codewars](https://www.codewars.com)\n- [CodeFights](https://codefights.com/)\n\n#### Linux\n\n- [Damn Small Linux](http://damnsmalllinux.org/applications.html)\n- [Puppy Linux](http://puppylinux.com/)\n\n#### Ruby\n\n- [Learn Ruby](http://rubykoans.com/)\n\n### Paracord\n\n- [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "47f47ff11423113c1ee11a113d189bf1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": ""
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "# Articles, Resources, and Things of Interest\n\nA running list of articles, resources, and things of interest that I want to remember or explore further\n\n## Extremely 🔥 Take\n\n- [The “Backendification” of Frontend Development](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4?mkt_tok=eyJpIjoiTURZeE9XUTROREV4WWprNCIsInQiOiJCdjI4eGVLaDlGTGN3NVFwVzBRY2JUSEMxZHJrZVlIVExaSHVcL3FHQUxnTU1MOTBMZFlsUVplTTlyS21sTit0QStIUmxFV3FmYzVhK1lldEtHU3dKUFJsQ2d2NDJ6WmxNTGV4empzK1Y2YlBmOFUzTWNOM0V1RkZIQ1E2bkl0Zm8ifQ%3D%3D)\n\n## Frequently Used\n\n- [A Successful Git Branching Strategy](https://nvie.com/posts/a-successful-git-branching-model/)\n- [Webpack: 0 to Automated Testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)\n- [How Redux Works](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)\n- [OO Design Principles in Java](https://dzone.com/articles/object-oriented-design-principles-in-java)\n- 🔥🔥🔥[How To Remotely Copy Files Over SSH Without Entering Your Password](https://www.howtogeek.com/66776/HOW-TO-REMOTELY-COPY-FILES-OVER-SSH-WITHOUT-ENTERING-YOUR-PASSWORD/)\n- 🔥🔥🔥[Spring Boot](http://www.baeldung.com/spring-boot)\n- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)\n- [The definitive Node.js Handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)\n- 🔥🔥🔥[Resources For Web Development](https://zero-to-mastery.github.io/resources/)\n- 🔥🔥🔥[Webpack Config Generator](https://webpack.jakoblind.no/)\n- [Web Development Skills to Help You Stand Out](https://dev.to/colinmtech/learning-web-development-these-skills-will-make-you-stand-out-56fh?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20180711+web+nl&mkt_tok=eyJpIjoiWW1RM05tSTVZek16WVdRMCIsInQiOiJSZGlHcEg4MUp4M0xKb0JXU05YdXdlMTBsS3orQVwvdFNDRDk3d09WcmI3c25OZDJ5bjZpdXZsN3ZSdDU5WnQ5S3BTYU9mdGNKVTNlRHQ1eGZmbDFUZkl2cnJsbXBmRm8zNkttaXRTUUlQTmNwMnFZS1wvSmdRVzRkTzRTYm9tcktyIn0%3D)\n\n## _TODO_\n\n- [Cros-Origin Resource Sharing](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)\n- 🔥[How To Set Up Apache Virtual Hosts on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04)\n- [Discovery Testing](https://www.youtube.com/watch?list=PLIuJbrOVyGjl0keQ-QyiMEOCvmabJEf0t&v=aeX5OXO-w30)\n- [But Really, What is a JavaScript Mock](https://blog.kentcdodds.com/but-really-what-is-a-javascript-mock-10d060966f7d)\n- [But Really, What is a JavaScript Test](https://blog.kentcdodds.com/but-really-what-is-a-javascript-test-46fe5f3fad77)\n- [Learning Node.js in 2018](https://medium.com/the-node-js-collection/survey-learning-node-js-in-2018-330ec850a2e9)\n- [React Holiday](https://react.holiday/)\n- [Redux Intro Using Vanilla JS](https://www.youtube.com/watch?v=wuabk5gqHVc)\n- [Free React Bootcamp](https://www.youtube.com/watch?v=8GXXGJRDMdQ)\n- [JS Patterns](http://www.jspatterns.com/)\n- [Hyperapp](https://github.com/hyperapp/hyperapp/blob/master/README.md)\n- [Introduction to Spring Boot CLI](http://www.baeldung.com/spring-boot-cli)\n- [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)\n- [Designing Very Large JavaScript Applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)\n- [Check Out These Useful ES2015 Tips and Tricks](https://medium.freecodecamp.org/check-out-these-useful-ecmascript-2015-es6-tips-and-tricks-6db105590377)\n- [Test First](http://testfirst.org/)\n- [Solid Principles: Single Responsibility Principle](https://egkatzioura.com/2018/02/23/solid-principles-single-responsibility-principle/)\n- [Solid Principles: Open/Closed Principle](https://egkatzioura.com/2018/02/23/solid-principles-open-closed-principle/)\n- [Solid Principles: Liskov Substitution Principle](https://egkatzioura.com/2018/02/23/solid-principles-liskov-substitution-principle/)\n- [Solid Principles: Interface Segregation Principle](https://egkatzioura.com/2018/02/23/solid-principles-interface-segregation-principle/)\n- [Solid Principles: Dependency Inversion Principle](https://egkatzioura.com/2018/02/23/solid-principles-dependency-inversion-principle/)\n- [14 Super Probiotic Recipes to Realign Your Gut](http://www.marksdailyapple.com/14-super-probiotic-recipes-to-realign-your-gut/)\n- [Where I Part Ways with the Popular Keto Movement](https://www.marksdailyapple.com/where-i-part-ways-with-the-popular-keto-movement/)\n- [The 3 Stages of Failure in Life and Work (And How to Fix Them)](http://jamesclear.com/3-stages-of-failure)\n- [9 ways to accelerate your learning and stay on the bleeding edge](https://hackernoon.com/9-ways-to-accelerate-your-learning-and-stay-on-the-bleeding-edge-532ac3381846)\n- [How to Stick With Good Habits Every Day by Using the \"Paper Clip Strategy\"](https://jamesclear.com/paper-clips)\n- [A Resonable Approach for Getting Comfortable With Command Line](https://css-tricks.com/reasonable-approach-getting-comfortable-command-line/)\n- [Breaking Down a CSS Grid Layout](http://csskarma.com/blog/css-grid-layout/?imm_mid=0f5c67&cmp=em-web-na-na-newsltr_20170830)\n- [Liberating LayoutThrough CSS Grid](https://cssgrid.cc/)\n- [How to Combine Flexbox and CSS grids for efficient layouts](https://getflywheel.com/layout/combine-flexbox-and-css-grids-for-layouts-how-to/?utm_source=CSS-Weekly&utm_campaign=Issue-279&utm_medium=RSS)\n- [CSS Grid Gotchas And Stumbling Blocks](https://www.smashingmagazine.com/2017/09/css-grid-gotchas-stumbling-blocks/?utm_source=CSS-Weekly&utm_campaign=Issue-285&utm_medium=RSS)\n- [The Story of CSS Grid, from its Creators](https://alistapart.com/article/the-story-of-css-grid-from-its-creators?utm_source=frontendfocus&utm_medium=email)\n- [How to Write a JavaScript-Free Todo App Using Just HTML and CSS](http://www.mattzeunert.com/2017/10/30/javascript-free-todo-app.html?imm_mid=0f79f3&cmp=em-web-na-na-newsltr_20171101)\n- [Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)\n- [Introducing BDD](https://dannorth.net/introducing-bdd/)\n- [The Introduction to Reactive Programming You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)\n- [The Open Home Lab Stack](https://hackernoon.com/the-open-home-lab-stack-5e5858722fee)\n- [How to Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)\n- [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)\n- [25 Programming Books for the Aspiring Developer](http://blog.teamtreehouse.com/25-programming-books-for-the-aspiring-developer)\n- [Top 10 Student Favorite Tech Podcasts](http://blog.teamtreehouse.com/top-10-student-favorite-podcasts)\n- [My Honest Opinion About Unit Testing](https://hackernoon.com/my-honest-opinion-about-unit-testing-84eee5e893ad)\n- [Understanding SOLID Principles: Dependency Inversion](https://codeburst.io/understanding-solid-principles-dependency-injection-d570c15560ab)\n- [Aspect Oriented Programming (AOP) in real life scenario](https://dev.to/rafalpienkowski/aspect-oriented-programming-aop-in-real-life-scenario-3ha)\n- [Single-Responsibility Principle Done Right](https://dzone.com/articles/single-responsibility-principle-done-right)\n- [Test Doubles-Fakes, Mocks, and Stubs](https://blog.pragmatists.com/test-doubles-fakes-mocks-and-stubs-1a7491dfa3da)\n- [Learn CI: Automated Test and Publish in 10 Min](https://hackernoon.com/learn-ci-automated-test-and-publish-in-10-min-3096717dc81e)\n- [Understanding Git - Explain it Like I'm Five](https://hackernoon.com/understanding-git-fcffd87c15a3)\n- [Shadertoy](https://www.shadertoy.com/view/Md23DV)\n- [Turn Your Old Router into a RangeBoosting Wi-Fi Repeater](https://lifehacker.com/5563196/turn-your-old-router-into-a-range-boosting-wi-fi-repeater/amp)\n- [**Digital Ocean**](https://www.digitalocean.com/)\n- [Understanding Classes in Java (Part 1)](https://dzone.com/articles/understanding-classes-in-java-part-1)\n- [Using the Spring @RequestMapping Annotation](https://dzone.com/articles/using-the-spring-requestmapping-annotation)\n- [JUnit 5, Spring 5, and NoSQL Java](https://dzone.com/articles/this-week-in-spring-september-12th-2017?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)\n- [Code Smells: If-statements](https://dzone.com/articles/code-smells-if-statements)\n- [Four Techniques for Writing Better Java](https://dzone.com/articles/4-more-techniques-for-writing-better-java)\n- [Getting to Know java.nio.file.Path](https://dzone.com/articles/getting-to-know-javaniofilepath-part-1)\n- [Understanding, Accepting, and Leveraging Optional in Java](https://dzone.com/articles/understanding-accepting-and-leveraging-optional-in)\n- [Hamcrest vs. AssertJ](https://dzone.com/articles/hamcrest-vs-assertj-assertion-frameworks-which-one)\n- [Creating a REST Web Service with Java and Spring](https://dzone.com/articles/creating-a-rest-api-with-java-and-spring)\n- [Java Persistence API Introduction (Part 1)](https://dzone.com/articles/java-persistence-api-introduction-part-1)\n- [A Reactor Core Tutorial](https://dzone.com/articles/reactor-core-tutorial)\n- [Sneakily Throwing Exceptions in Lambda Expressions](https://dzone.com/articles/sneakily-throwing-exceptions-in-lambda-expressions)\n- [Build a Secure Notes App With Kotlin, TypeScript, and Okta](https://dzone.com/articles/build-a-secure-notes-application-with-kotlin-types)\n- [Session Management in Java Web Apps](https://dzone.com/articles/session-management-in-java-web-apps?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed:%20dzone%2Fjava)\n- [How Spring MVC Really Works](https://dzone.com/articles/how-spring-mvc-really-works)\n- [Spring 5, Embedded Tomcat 8, and Gradle](https://dzone.com/articles/spring-5-embedded-tomcat-8-and-gradle)\n- [Codingbat](http://codingbat.com/java)\n- [IoC vs. DI](https://dzone.com/articles/ioc-vs-di)\n- [About Dependency Injection](https://dzone.com/articles/about-dependency-injection)\n- [Bootiful Development With Spring Boot and React](https://dzone.com/articles/bootiful-development-with-spring-boot-and-react)\n- [Spring, Spring Boot, and Component Scan](https://dzone.com/articles/spring-spring-boot-and-component-scan)\n- [Is Vanilla JavaScript worth learning? Absolutely](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34)\n- [Why we moved from Angular 2 to Vue.js (and why we didn't choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)\n- [Build a simple Telegram Bot with Node.js](https://thedevs.network/blog/build-a-simple-telegram-bot-with-node-js?imm_mid=0f5e69&cmp=em-web-na-na-newsltr_20170906)\n- [Modern Modules](https://medium.com/@mikeal/modern-modules-d99b6867b8f1)\n- [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)\n- [**_Coding Tip: Try to Code Without If-statements_**](https://medium.com/@samerbuna/coding-tip-try-to-code-without-if-statements-d06799eed231)\n- [Learn JavaScript Promises by Building a Promise from Scratch](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720) -[The Wonderful World of Webpack](http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/)\n- [Learn How To Debug JavaScript with Chrome DevTools](https://codeburst.io/learn-how-to-debug-javascript-with-chrome-devtools-9514c58479db)\n- [**Setting up Webpack, Babel, and React from scratch, revisited**](https://stanko.github.io/webpack-babel-react-revisited/?utm_source=reactnl&utm_medium=email)\n- [Challenge: Programming without variables in JavaScript](https://hackernoon.com/challenge-program-without-variables-javascript-bee89a41455e)\n- [How three dots changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/)\n- [Object Oriented Programming in Vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)\n- [Looking at Tree-Shaking in JavaScript with Rollup](https://justintimecoder.com/treeshaking-in-javascript-with-rollup/?utm_source=ponyfoo+weekly&utm_medium=email&utm_campaign=85)\n- [Migrating towards Yarn and Webpack](http://engineering.wingify.com/posts/migrating-towards-yarn-webpack/)\n- [12 Common Javascript Questions Answered](http://www.creativebloq.com/features/12-common-javascript-questions-answered)\n- [How to Build a Simple Blog Using React and GraphQL](https://cosmicjs.com/articles/how-to-build-a-simple-blog-using-react-and-graphql-j8ouwjvh)\n- [Scrimba: Interactive Coding Screencasts](https://scrimba.com/)\n- [Webpack from Nothing](https://what-problem-does-it-solve.com/webpack/index.html)\n- [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)\n- [Angular vs. React vs. Vue: A 2017 Comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)\n- [Five React Practice Projects](https://daveceddia.com/react-practice-projects/?utm_campaign=0914practice)\n- [Deploy Angular Universal with Firebase](https://hackernoon.com/deploy-angular-universal-w-firebase-ad70ea2413a1?imm_mid=0f65c2&cmp=em-web-na-na-newsltr_20170920)\n- [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)\n- [Announcing Yarn 1.0](https://code.facebook.com/posts/274518539716230)\n- [Learn Mocha](https://github.com/ideaq/learn-mocha)\n- [Getting Started with Node.js and Mocha](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)\n- [How To Use Mocha With Node.js For Test-Driven Development to Avoid Pain and Ship Products Faster](https://webapplog.com/tdd/)\n- [Webpack: A Gentle Introduction to the Module Bundler](https://auth0.com/blog/webpack-a-gentle-introduction/)\n- [How to Create a RetroPie on Raspberry Pi](https://davidwalsh.name/retropie-graphical-guide)\n- [101+ Raspberry Pi Projects For Electronics Students](https://www.electronicshub.org/raspberry-pi-projects/#Simple_Raspberry_Pi_Projects_with_Codes_In_Electronics_Hub)\n- [200+ Arduino Projects List For Electronics Students](https://www.electronicshub.org/arduino-project-ideas/)\n- [MDN WebGL Tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)\n- [WebGL Fundamentals](https://webglfundamentals.org/)\n- [60+ JavaScript Tutorials and Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)\n- [Progressive Web Apps Core Guides on MDN Web Docs](,https://hacks.mozilla.org/2018/05/progressive-web-apps-core-guides-on-mdn-web-docs/)\n\n## Recommended\n\n### Health and Wellness\n\n- [Nine Delicious and Simple Keto Crockpot Recipes](https://thedailynutrition.com/keto-crockpot-recipes/)\n\n### Programming\n\n#### CSS\n\n- [BADA55.io](http://bada55.io/)\n- [Intro to CSS 3D Transforms](https://desandro.github.io/3dtransforms/docs/introduction.html)\n- [Media Queries For Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)\n- [CSS Naming Conventions the Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)\n- [Resilient CSS (7 Part series)](https://www.youtube.com/watch?v=u00FY9vADfQ)\n\n##### Grid\n\n- [Intro to CSS Grid Layout](https://mozilladevelopers.github.io/playground/)\n- [Grid by Example](https://gridbyexample.com/)\n- [An Introduction to CSS Grid Layout: Part 1](https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/)\n- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)\n- [Flexbox and Grids, You Layout's Best Friend](https://aerolab.co/blog/flexbox-grids/)\n- [Grid to Flex](http://www.gridtoflex.com/)\n- [How to make your HTML responsive by adding a single line of CSS](https://medium.freecodecamp.org/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431)\n- [CSS Grid - Responsive Layouts and Components](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f)\n\n##### Flexbox\n\n- [The Ultimate Guide to Flexbox–Learning Through Examples](https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676)\n- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies)\n- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\n\n#### General\n\n- [Prettier + Stylelint: Writing Very Clean CSS (Or, Keeping Clean Code is a Two-Tool Game)](https://css-tricks.com/prettier-stylelint-writing-clean-css-keeping-clean-code-two-tool-game/)\n- [OOPs, I FP'd again!](https://hackernoon.com/oops-i-fpd-again-14a3aecbbb98)\n- [**Every Programmer Should Know**](https://github.com/mtdvio/every-programmer-should-know)\n- [**P1xt Guides**](https://github.com/P1xt/p1xt-guides#get-job-ready-with-13-projects-2-courses-and-10-books)\n- [First Timers Only](http://www.firsttimersonly.com/)\n- [Code Review Best Practices](https://medium.com/@palantir/code-review-best-practices-19e02780015f)\n- [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)\n- [Functional OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)\n\n##### Agile/Scrum\n\n- [Scrum Training Series](michaeljames.org)\n\n##### Git/Github\n\n- [Team Collaboration with Github](https://code.tutsplus.com/articles/team-collaboration-with-github--net-29876)\n- [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)\n- 🔥[Git Workflows](https://medium.com/@jurtzmarcel/git-workflows-cb0c023ca88)\n\n##### Testing\n\n- [Let's get real (An Article on TDD)](https://medium.com/@_ericelliott/lets-get-real-c79bd4902585)\n- [No.](https://medium.com/@_ericelliott/no-2aca272faac5)\n- [Test-Driven Code Review](https://hackernoon.com/test-driven-code-review-3f05f6cee400)\n- [My Favorite Way To TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles)\n\n#### Java\n\n- [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)\n- [Spring Doc](https://docs.spring.io/spring/docs/4.3.x/spring-framework-reference/htmlsingle/)\n- [Getters and Setters Considered Harmful](https://dzone.com/articles/getters-and-setters-considered-harmful)\n\n##### Spring\n\n- 🔥[Spring Boot Tutorial](http://www.baeldung.com/spring-boot-start?utm_source=email&utm_medium=email&utm_campaign=series1-rest&tl_inbound=1&tl_target_all=1&tl_period_type=3&__s=npvpapsvznfu8dp8sgof)\n- [Spring ResponseStatusException](https://www.baeldung.com/spring-response-status-exception)\n\n##### Hamcrest\n\n- [Using Hamcrest for testing - Tutorial](http://www.vogella.com/tutorials/Hamcrest/article.html)\n\n#### JavaScript\n\n- 🔥🔥🔥[JS Stack From Scratch](https://github.com/verekia/js-stack-from-scratch)\n- [JavaScript30](https://javascript30.com/)\n- [Learn & Understand JavaScript's Map Function](https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783)\n- [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)\n- [When Not to use an Arrow Function](http://wesbos.com/arrow-function-no-no/)\n- [6 Great Uses of the Spread Operator](https://davidwalsh.name/spread-operator/amp?__twitter_impression=true)\n- [The Ultimate Guide to Javascript Frameworks](https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/)\n- [A Definitive Guide to JavaScript Prototypes](https://hackernoon.com/a-definitive-guide-to-javascript-prototypes-2c263788021e)\n- [MDN: DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)\n- [JavaScript: Prototype vs. Class](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b)\n\n##### ES6+\n\n- 🔥🔥🔥[Top 10 ES6 features by Example](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb)\n- [Make Your Code Cleaner, Shorter and Easier to Read! ES6 Tips and Tricks.](https://dev.to/samwsoftware/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-2k37)\n\n###### Node.js\n\n- [Node Hero](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)\n\n#### Katas, Tutorial, and Learning Tools\n\n- [Code Kata](http://codekata.com/kata/codekata-intro/)\n- [ES6 Katas](http://es6katas.org/)\n- [Groovy Koans](http://www.groovy-koans.org/)\n- [Codewars](https://www.codewars.com)\n- [CodeFights](https://codefights.com/)\n\n#### Linux\n\n- [Damn Small Linux](http://damnsmalllinux.org/applications.html)\n- [Puppy Linux](http://puppylinux.com/)\n\n#### Ruby\n\n- [Learn Ruby](http://rubykoans.com/)\n\n### Paracord\n\n- [Predator Mask Bracelet](http://blog.swiss-paracord.ch/portfolio-item/predator-mask/)\n",
+      "fileAbsolutePath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/content/index.md"
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "pluginCreatorId": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f22b4c3be1986ebb8230ba86fe251abb",
+        "description": "80384f0a-df20-544d-9ac7-3f4756514b72",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "pluginCreatorId": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "747652b7bed26ced54855607dd948fc7",
+        "description": "80384f0a-df20-544d-9ac7-3f4756514b72",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "pluginCreator___NODE": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "pluginCreatorId": "80384f0a-df20-544d-9ac7-3f4756514b72",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "389fa6e3cc71407c28e7d36e85b66095",
+        "description": "80384f0a-df20-544d-9ac7-3f4756514b72",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6e1e2837e330ebf7563cd77cf360a4a5",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "89c0181cfb65b1eea60fe9f247039ebc"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "3e994d1a-e788-56a9-a23e-d0efaeb58604": [
+        "sq--src-components-image-js"
+      ],
+      "478ccf9c-ac30-5db6-b5b5-5f503e1d2ff7": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-layout-js": 755544856,
+    "sq--src-components-seo-js": 1025518380,
+    "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/404.js"
+    },
+    "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/index.js"
+    },
+    "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/page-2.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-image-js": {
+      "name": "usersDonhamiltoniiiDocumentsPersonalProjectsArticlesResourcesToisSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersDonhamiltoniiiDocumentsPersonalProjectsArticlesResourcesToisSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1025518380
+    }
+  }
+}
