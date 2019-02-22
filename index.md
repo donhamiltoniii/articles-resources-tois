@@ -2,9 +2,9 @@
 
 A running list of articles, resources, and things of interest that I want to remember or explore further
 
-## NEVER FORGET!
+## Extremely 🔥 Take
 
-- [Content Assist Mac (Can't use <alt\> + <space\>)](https://www.stefaanlippens.net/code_completion_shortcut_eclipse_osx/)
+- [The “Backendification” of Frontend Development](https://hackernoon.com/the-backendification-of-frontend-development-62f218a773d4?mkt_tok=eyJpIjoiTURZeE9XUTROREV4WWprNCIsInQiOiJCdjI4eGVLaDlGTGN3NVFwVzBRY2JUSEMxZHJrZVlIVExaSHVcL3FHQUxnTU1MOTBMZFlsUVplTTlyS21sTit0QStIUmxFV3FmYzVhK1lldEtHU3dKUFJsQ2d2NDJ6WmxNTGV4empzK1Y2YlBmOFUzTWNOM0V1RkZIQ1E2bkl0Zm8ifQ%3D%3D)
 
 ## Frequently Used
 
