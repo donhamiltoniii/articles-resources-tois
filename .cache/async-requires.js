@@ -7,5 +7,3 @@ exports.components = {
   "component---src-pages-page-2-js": () => import("/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/src/pages/page-2.js" /* webpackChunkName: "component---src-pages-page-2-js" */)
 }
 
-exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/donhamiltoniii/Documents/personal-projects/articles-resources-tois/.cache/data.json")
-
