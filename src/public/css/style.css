@@ -1,22 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
+body {
+  background-color: var(--light);
+}
+
 html {
-  color: #666;
-  font: 20px/1 sans-serif;
+  --light-blue: #98dfea;
+  --purple: #8f3985;
+  --teal: #07beb8;
+
+  --accent-one: var(--purple);
+  --accent-two: var(--light-blue);
+  --dark: #333;
+  --light: #efd9ce;
+  --mid: #666;
+  --primary-color: var(--teal);
+
+  color: var(--mid);
+  font: 20px/1 "Montserrat", sans-serif;
+}
+
+a {
+  border-radius: 0.125rem;
+  color: var(--dark);
+  font-family: "DM Serif Display", serif;
+  margin-left: -0.125rem;
+  margin-right: -0.125rem;
+  padding: 0.125rem;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a::after {
+  color: var(--accent-one);
+  content: "°";
+}
+
+a:hover {
+  background-color: var(--accent-two);
 }
 
 h1,
 h2,
 h3 {
-  color: #333;
+  color: var(--dark);
   margin-bottom: 1em;
 }
 
 hr {
+  background-color: var(--primary-color);
+  border: 0;
+  height: 2px;
   margin: 1.5rem 0 2rem;
 }
 
@@ -29,7 +70,7 @@ p {
 }
 
 ul {
-  margin-left: 1.25rem;
+  list-style: none;
 }
 
 .container {
