@@ -11825,6 +11825,9 @@ packages:
       node: '>=6'
     peerDependencies:
       typescript: '*'
+    peerDependenciesMeta:
+      typescript:
+        optional: true
     resolution:
       integrity: sha512-f5Knjh7XCyRIzoC/z1Su1yLLRrPrFCgtUAh/9fCSP6NKbATwpOL1+idQVXQokK9GRFURn/jYPGPfegIctwunoA==
   /tslib/1.10.0:
@@ -12844,7 +12847,7 @@ specifiers:
   gatsby-plugin-offline: ^2.0.24
   gatsby-plugin-react-helmet: ^3.0.6
   gatsby-plugin-sharp: ^2.0.21
-  gatsby-source-filesystem: ^2.0.22
+  gatsby-source-filesystem: ^2.1.5
   gatsby-transformer-remark: ^2.2.6
   gatsby-transformer-sharp: ^2.1.14
   prop-types: ^15.7.2

@@ -1,3 +1,9 @@
+---
+path: '/'
+date: '2019-05-04'
+title: 'My first blog post'
+---
+
 # Articles, Resources, and Things of Interest
 
 A running list of articles, resources, and things of interest that I want to remember or explore further
@@ -22,3 +28,4 @@ A running list of articles, resources, and things of interest that I want to rem
 - [Object Oriented Programming in Vanilla JavaScript](https://hackernoon.com/object-oriented-programming-in-vanilla-javascript-f3945b15f08a)
 - [Node Hero - Getting Started With Node.js Tutorial](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
 - [60+ JavaScript Tutorials and Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
+- [How To Get Better at Writing CSS](https://www.freecodecamp.org/news/how-to-get-better-at-writing-css-a1732c32a72f/)
