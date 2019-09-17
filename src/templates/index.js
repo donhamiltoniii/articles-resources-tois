@@ -3,19 +3,29 @@ import { graphql } from 'gatsby'
 
 import '../public/css/style.css'
 
-export default ({ data }) => (
-  <div
-    className="container"
-    dangerouslySetInnerHTML={{
-      __html: data.markdownRemark.html
-    }}
-  />
-)
+export default ({ data }) => {
+  console.log(data)
+  return (
+    <div className="container">
+      <h1 className="title">{data.markdownRemark.frontmatter.title}</h1>
+      <div
+        dangerouslySetInnerHTML={{
+          __html: data.markdownRemark.html
+        }}
+      />
+    </div>
+  )
+}
 
 export const pageQuery = graphql`
-  query($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query {
+    markdownRemark {
       html
+      frontmatter {
+        date
+        path
+        title
+      }
     }
   }
 `
