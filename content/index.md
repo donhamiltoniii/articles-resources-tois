@@ -28,3 +28,9 @@ A running list of articles, resources, and things of interest that I want to rem
 
 - [How to publish packages to npm (the way the industry does things)](https://zellwk.com/blog/publish-to-npm/)
 - [How to Publish Your First npm Package](https://medium.com/@bretcameron/how-to-publish-your-first-npm-package-b224296fc57b)
+
+---
+
+## DBs
+
+- [How to Choose the Right Database](https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741)
