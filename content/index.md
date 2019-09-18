@@ -18,6 +18,12 @@ A running list of articles, resources, and things of interest that I want to rem
 
 ---
 
+## Design Patterns
+
+- [ES6 Design Patterns](https://loredanacirstea.github.io/es6-design-patterns/)
+
+---
+
 ## CSS
 
 - [How To Get Better at Writing CSS](https://www.freecodecamp.org/news/how-to-get-better-at-writing-css-a1732c32a72f/)
@@ -34,3 +40,11 @@ A running list of articles, resources, and things of interest that I want to rem
 ## DBs
 
 - [How to Choose the Right Database](https://towardsdatascience.com/how-to-choose-the-right-database-afcf95541741)
+
+---
+
+## Testing
+
+### Jest
+
+- [Jest: TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
