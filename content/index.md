@@ -34,7 +34,7 @@ A running list of articles, resources, and things of interest that I want to rem
 
 - [How to publish packages to npm (the way the industry does things)](https://zellwk.com/blog/publish-to-npm/)
 - [How to Publish Your First npm Package](https://medium.com/@bretcameron/how-to-publish-your-first-npm-package-b224296fc57b)
-- [How to Create and Publish an NPM module in TypeScript](https://codeburst.io/https-chidume-nnamdi-com-npm-module-in-typescript-12b3b22f0724)
+- [Building and publishing a module with TypeScript and Rollup.js](https://hackernoon.com/building-and-publishing-a-module-with-typescript-and-rollup-js-faa778c85396)
 
 ---
 
