@@ -49,3 +49,9 @@ A running list of articles, resources, and things of interest that I want to rem
 ### Jest
 
 - [Jest: TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
+
+---
+
+## Documentation
+
+- [What Nobody Tells You About Documentation](https://www.divio.com/blog/documentation/)
